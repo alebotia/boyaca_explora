@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dane",
+				"dane_code"
+			],
+			[
+				"find",
+				"findDoc"
+			],
+			[
+				"fi",
+				"filterId"
+			],
+			[
+				"lo",
+				"locationId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"se sy js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sy js",
+				"Set Syntax: JSX"
+			],
+			[
+				"qu",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inpa",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"user s",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ins",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alejandro/react/boyaca-map",
+		"/home/alejandro/react/boyaca-map/src",
+		"/home/alejandro/react/boyaca-map/src/actions",
+		"/home/alejandro/react/boyaca-map/src/components",
+		"/home/alejandro/react/boyaca-map/src/info",
+		"/home/alejandro/react/boyaca-map/src/store"
+	],
+	"file_history":
+	[
+		"/home/alejandro/react/boyaca-map/src/components/MunicipalityConditionalRendering.jsx",
+		"/home/alejandro/react/boyaca-map/src/components/MunicipalityActivity.js",
+		"/home/alejandro/react/boyaca-map/src/components/MunicipalityContainer.jsx",
+		"/home/alejandro/react/boyaca-map/package.json",
+		"/home/alejandro/react/boyaca-map/.env",
+		"/home/alejandro/react/boyaca-map/Dockerfile",
+		"/home/alejandro/react/boyaca-map/src/components/Header.jsx",
+		"/home/alejandro/react/boyaca-map/src/components/Footer.jsx",
+		"/home/alejandro/react/boyaca-map/src/App.js",
+		"/home/alejandro/Downloads/react-starter-kit-master/package.json",
+		"/home/alejandro/react/boyaca-map/src/store/store.js",
+		"/home/alejandro/react/boyaca-map/src/actions/Actions.js",
+		"/home/alejandro/react/boyaca-map/src/components/MapActivity.js",
+		"/home/alejandro/react/boyaca-map/src/Root.jsx",
+		"/home/alejandro/react/boyaca-map/src/components/MunicipalityCards.jsx",
+		"/home/alejandro/react/boyaca-map/src/components/MunicipalityGeneralInfo.jsx",
+		"/home/alejandro/react/boyaca-map/src/info/boyaca.js",
+		"/home/alejandro/react/boyaca-map/src/components/MunicipalityTabs.jsx",
+		"/home/alejandro/react/boyaca-map/src/components/MunicipalityHotelTab.jsx",
+		"/home/alejandro/react/boyaca-map/src/utilities/data.js",
+		"/home/alejandro/react/boyaca-map/src/components/ListItem.jsx",
+		"/home/alejandro/react/boyaca-map/src/index.js",
+		"/home/alejandro/react/boyaca-map/public/index.html",
+		"/home/alejandro/react/boyaca-map/src/App.css",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb_complete_data/municipalities_hotels_final.json",
+		"/home/alejandro/react/boyaca-map/src/components/Map.jsx",
+		"/home/alejandro/react/boyaca-map/src/components/DepartmentInfo.jsx",
+		"/home/alejandro/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/home/alejandro/react/boyaca-map/src/images/boyaca/index.js",
+		"/home/alejandro/react/boyaca-map/src/components/Department.jsx",
+		"/home/alejandro/react/boyaca-map/src/utilities/LocalStorage.js",
+		"/home/alejandro/react/boyaca-map/src/localStorage/LocalStorage.js",
+		"/home/alejandro/react/boyaca-map/src/info/boyaca.json",
+		"/home/alejandro/react/boyaca-map/src/css/map.css",
+		"/home/alejandro/react/argon-design-system-react-master/src/views/IndexSections/Tabs.jsx",
+		"/home/alejandro/react/boyaca-map/src/info/municipalities_hotels_final.json",
+		"/home/alejandro/react/boyaca-map/src/store/ConfigureStore.jsx",
+		"/home/alejandro/react/todo-redux/src/store/Store.js",
+		"/home/alejandro/react/react-svg-map/examples/src/components/tooltip-heat-map.jsx",
+		"/home/alejandro/react/react-svg-map/examples/src/components/examples-app.scss",
+		"/home/alejandro/react/react-svg-map/examples/src/utils.js",
+		"/home/alejandro/react/react-svg-map/examples/src/components/radio-map.jsx",
+		"/home/alejandro/react/todo-redux/src/components/TodoList.js",
+		"/home/alejandro/react/todo-redux/src/components/VisibleTodoList.js",
+		"/home/alejandro/react/react-svg-map/examples/src/components/boyaca.jsx",
+		"/home/alejandro/react/todo-list/src/App.js",
+		"/home/alejandro/react/argon-design-system-react-master/src/views/IndexSections/Typography.jsx",
+		"/home/alejandro/react/argon-design-system-react-master/src/views/Index.jsx",
+		"/home/alejandro/react/argon-design-system-react-master/package.json",
+		"/home/alejandro/react/boyaca-map/src/components/Hero.jsx",
+		"/home/alejandro/react/boyaca-map/src/assets/css/argon-design-system-react.css",
+		"/home/alejandro/react/argon-design-system-react-master/src/views/IndexSections/Navbars.jsx",
+		"/home/alejandro/react/argon-design-system-react-master/src/views/IndexSections/Buttons.jsx",
+		"/home/alejandro/react/argon-design-system-react-master/src/views/IndexSections/Hero.jsx",
+		"/home/alejandro/react/argon-design-system-react-master/src/index.js",
+		"/home/alejandro/react/argon-design-system-react-master/src/views/examples/Landing.jsx",
+		"/home/alejandro/react/react-svg-map/examples/src/images/boyaca/boyaca.svg",
+		"/home/alejandro/react/react-svg-map/examples/src/images/boyaca/index.js",
+		"/home/alejandro/react/svg-maps/packages/boyaca/index.js",
+		"/home/alejandro/react/svg-maps/packages/boyaca/boyaca.svg",
+		"/home/alejandro/react/react-svg-map/examples/src/images/boyaca_edit.svg",
+		"/home/alejandro/react/react-svg-map/node_modules/@svg-maps/australia/australia.svg",
+		"/home/alejandro/react/react-svg-map/examples/src/components/examples-app.jsx",
+		"/home/alejandro/react/react-svg-map/examples/src/index.jsx",
+		"/home/alejandro/react/react-svg-map/src/svg-map.scss",
+		"/home/alejandro/react/react-svg-map/src/boyaca.jsx",
+		"/home/alejandro/react/react-svg-map/package.json",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb_complete_data/comandos_mongo_import_export.txt",
+		"/home/alejandro/Documents/boyaca_turismo/municipalities_hotels.json",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb_complete_data/municipalities_hotels.json",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb_complete_data/Boyaca_turismo_wiki_merge.json",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb_complete_data/boyaca_turismo.json",
+		"/home/alejandro/Documents/boyaca_turismo/hoteles_boyaca.csv",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb_complete_data/consolidado.json",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb/export_test.json",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb/datos_municipio.csv",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb/boyaca_turismo.json",
+		"/home/alejandro/Documents/boyaca_turismo/boyaca_turismo.json",
+		"/home/alejandro/Documents/boyaca_turismo/datos_municipio.csv",
+		"/home/alejandro/Documents/boyaca_turismo/mongodb/notas.txt",
+		"/home/alejandro/Documents/boyaca_turismo/export_test.json",
+		"/home/alejandro/Documents/boyaca_turismo/boyaca_turismo (copy).json",
+		"/home/alejandro/Documents/boyaca_turismo/inventario_atractivos_cultural_turistico_copy_csv.csv",
+		"/home/alejandro/Documents/boyaca_turismo/formula_concat.json",
+		"/home/alejandro/Documents/boyaca_turismo/boyaca_turismo_temp.json",
+		"/home/alejandro/Documents/boyaca_turismo/inventario_atractivos_cultural_turistico.csv",
+		"/home/alejandro/Documents/boyaca_turismo/sitios_de_interes.csv",
+		"/home/alejandro/react/boyaca-map/src/images/boyaca/boyaca.svg",
+		"/home/alejandro/react/boyaca-map/node_modules/@svg-maps/boyaca/index.js",
+		"/home/alejandro/react/boyaca-map/node_modules/@svg-maps/boyaca/boyaca.svg",
+		"/home/alejandro/Documents/boyaca_turismo/Colombia_-_Boyaca_-_Sogamoso.svg",
+		"/home/alejandro/react/boyaca-map/node_modules/react-svg-map/lib/index.css",
+		"/home/alejandro/react/boyaca-map/node_modules/@svg-maps/australia/index.js",
+		"/home/alejandro/react/svg-maps/packages/boy/boyaca_translate_aply.svg",
+		"/home/alejandro/react/svg-maps/packages/boy/boy.svg",
+		"/home/alejandro/react/boyaca-map/node_modules/@svg-maps/boy/boy.svg",
+		"/home/alejandro/Documents/boyaca_turismo/boyaca_translate_aply.svg",
+		"/home/alejandro/Documents/boyaca_turismo/Colombia_Boyacá_location_map_(adm) (3rd copy).svg",
+		"/home/alejandro/react/boyaca-map/node_modules/react-svg-map/lib/index.js",
+		"/home/alejandro/Documents/boyaca_turismo/Colombia_Boyacá_location_map.svg",
+		"/home/alejandro/react/svg-maps/packages/boy/index.js",
+		"/home/alejandro/Documents/boyaca_turismo/Colombia_Boyacá_location_map_(adm) (another copy).svg",
+		"/home/alejandro/Documents/boyaca_turismo/australia.svg",
+		"/home/alejandro/react/svg-maps/packages/australia/australia.svg",
+		"/home/alejandro/Documents/boyaca_turismo/Colombia_Boyacá_location_map_(adm) (copy).svg",
+		"/home/alejandro/Documents/boyaca_turismo/Colombia_Boyacá_location_map_(adm).svg",
+		"/home/alejandro/react/svg-maps/packages/australia/README.md",
+		"/home/alejandro/react/svg-maps/packages/australia/package.json",
+		"/home/alejandro/react/boyaca-map/node_modules/@svg-maps/australia/australia (copy).svg",
+		"/home/alejandro/react/svg-maps/packages/boyaca/Colombia_Boyacá_location_map_(adm).svg",
+		"/home/alejandro/react/svg-maps/package.json",
+		"/home/alejandro/react/boyaca-map/src/images/Colombia_Boyacá_location_map_(adm).svg",
+		"/home/alejandro/react/boyaca-map/node_modules/@svg-maps/australia/australia.svg",
+		"/home/alejandro/react/boyaca-map/node_modules/@svg-maps/australia/iasdndex (copy).js",
+		"/home/alejandro/react/boyaca-map/node_modules/@svg-maps/australia/package.json",
+		"/home/alejandro/Documents/superset/install.txt",
+		"/home/alejandro/.config/sublime-text-3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<!--",
+			"class",
+			"<!--",
+			"this",
+			"this.props.selectLocation.currentMunicipality",
+			"his.props.selectLocation.currentMunicipality",
+			"                        <",
+			"hotels",
+			"});",
+			"atraction",
+			")\n",
+			"<ListItem",
+			"'\n",
+			");\n",
+			"\"_id\":{\"$oid\":",
+			"lg",
+			"this",
+			"#pablo",
+			"classnames",
+			"className",
+			"d-flex",
+			"page",
+			"bd-pageheader",
+			"lead",
+			"section-shaped .section-hero",
+			"App",
+			"section-hero",
+			"md",
+			"sm",
+			"md",
+			"lg",
+			"g",
+			"G",
+			"g",
+			"G",
+			"g",
+			"assets",
+			"asset",
+			"<Hero>",
+			"Basic",
+			"BasicElements",
+			"Nucleo Icons",
+			"Basic Elements"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ClassName"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/alejandro/react/boyaca-map"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 382.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
