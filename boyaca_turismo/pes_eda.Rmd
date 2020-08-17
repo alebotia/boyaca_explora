@@ -1,0 +1,326 @@
+---
+title: "PES EDA"
+author: "Omar Alejandro Botia Navas / alejandrobotia352@gmail.com"
+date: "3 de diciembre de 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r setup, include=FALSE, message=FALSE}
+#https://stackoverflow.com/questions/42279838/dealing-with-spaces-in-header-names
+
+#use of diferentes types of grapichs
+#http://clairemcwhite.github.io/Intro-to-ggplot-and-tidy-data/
+
+# dinamic facet  facet_grid(.~facet, scales = "free_x", space = "free_x")
+```
+
+```{r setup, include=FALSE, message=FALSE}
+library("ggplot2")
+library("dplyr")
+library("gridExtra")
+library("tidyr")
+library("RColorBrewer")
+library("fivethirtyeight")
+library("ggthemes")
+
+
+
+#library(plyr)
+```
+
+```{r start data frames echo=FALSE}
+player_stats <- read.csv("all_players_exported.csv", header=TRUE, sep=";")
+
+player_stats$Age <- as.numeric(player_stats$Age)
+player_stats$POS <- as.factor(player_stats$POS)
+player_stats$PlayingStyle <- as.factor(player_stats$PlayingStyle)
+
+levels(player_stats$PlayingStyle)
+levels(player_stats$PlayingStyle) <- c("N/A","GOAL POACHER", "DUMMY RUNNER", "FOX IN THE BOX", "PROLIFIC WINGER", "CLASSIC No. 10", "HOLE PLAYER", "BOX-TO-BOX", "ANCHOR MAN", "THE DESTROYER", "EXTRA FRONTMAN", "OFFENSIVE FULL-BACK", "DEFENSIVE FULL-BACK", "TARGET MAN", "CREATIVE PLAYMAKER", "THE INSTIGATOR", "OFFENSIVE GOALKEEPER", "DEFENSIVE GOALKEEPER", "SOLID PLAYER")
+
+levels(player_stats$POS)
+levels(player_stats$POS) <- c("GK","CB","LB","RB","DMF","CMF", "LMF", "RMF", "AMF", "LWF", "RWF", "SS", "CF")
+
+
+levels(player_stats$Foot)
+levels(player_stats$Foot) <- c("Derecho", "Zurdo")
+
+players_foot <- player_stats %>% group_by(POS, Foot) %>% summarise(count=n())
+names(players_foot) <-  c("Posicion", "Pie_dominante", "cantidad")
+
+players_style <- player_stats %>% group_by(POS, PlayingStyle) %>% summarise(count=n()) %>% ungroup()
+names(players_style) <-  c("Posicion", "Estilo_juego", "cantidad")
+
+#use of tidy data | use of dataWranglingWithR slides
+tidy_players_style <- spread(players_style, Estilo_juego, cantidad)
+names(tidy_players_style)
+
+```
+
+
+```{r clean data frames echo=FALSE}
+player_stats[, 3] <- list(NULL)
+player_stats[, 36:90] <- list(NULL)
+names(player_stats)
+
+write.csv(player_stats, "all_players_exported_clean_columns.csv",  sep=";")
+```
+
+```{r tidy_data echo=FALSE}
+
+#add columns
+# player_stats$rarity[player_stats$OverallStats==1 & player_stats$OverallStats==1] <- 1 
+# player_stats$rarity[player_stats$OverallStats==2 & player_stats$OverallStats==1] <- 2
+# player_stats$rarity[player_stats$OverallStats==1 & player_stats$OverallStats==1] <- 1 
+# player_stats$rarity[player_stats$OverallStats==2 & player_stats$OverallStats==1] <- 2
+# player_stats$rarity[player_stats$OverallStats==1 & player_stats$OverallStats==1] <- 1 
+# player_stats$rarity[player_stats$OverallStats==2 & player_stats$OverallStats==1] <- 2
+
+
+stat_gather <- gather(player_stats, stat, stat_value, 26:52)
+#bracket notation 
+#my_df[row, column]
+#remove columns | stat_gather[, 13:75] <- list(NULL)
+
+
+names(stat_gather)
+head(stat_gather)
+stat_gather$stat <- as.factor(stat_gather$stat)
+
+##look for stats
+ggplot(aes(x = stat_value, y = OverallStats), data = subset(stat_gather, stat_gather$POS =="CMF"))+
+  geom_point(alpha = 1/20)+
+   facet_wrap(~ stat)
+names(stat_gather)
+## zoom
+ggplot(aes(x = Ball.Control, y = OverallStats, color = PlayingStyle ), data = subset(player_stats, player_stats$POS == "CMF" & player_stats$PlayingStyle != "N/A"  ))+
+  geom_point()
+  
+ggplot(aes(x = Ball.Control, y = OverallStats, color = PlayingStyle ), data = subset(player_stats, player_stats$POS == "CMF" & player_stats$PlayingStyle != "N/A"  ))+
+  geom_point()+
+  labs(title="Numero de jugadores por pie dominante")
+
+# posicion = CMF
+# PlayingStyle = color no NA
+# BALLCONTROL = y
+# overallstat = x
+levels(player_stats$PlayingStyle)
+names(player_stats)
+#correlacion entre ball control y dribling (control de balon pesa mas la mediana y desviacion str)
+#body control tiene mucho outlier
+#body control controlled spin
+#correlacion attacking prowess con finishing kicking power  place kicking
+#loft pass y low pass
+#ball wining defensive prowess
+#jump vs header
+#explosive pwer y speed
+
+
+
+#graficas con funcion linear (DIRECTAMENTE PROPORCIONAL) indican que hay una relacion entre la estadistica general y el overall
+#para el caso del CB las estadisticas que satisfacen esta condicion son 
+# ball winning, defensive prowess, header jump physical contact
+
+#quitar catching clearing coverage goalkeeping injury reflexes +- weak foot acc weakfootusage form
+
+
+#extremos
+#ball control dribling explosive power speed resistencia
+#finishing con attacking progress
+##lofted pass + speed + (pierna = costado) = hacia afuera (lemar)
+##kicking + explosive + DRIBLING + (pierna != costado) = hacia adentro (insigne)
+
+
+#mediocampistas CONTROL DE BALON EXCEPCIONAL ME DA UN CLASSIN NO 10
+#ball control, dribling, lofted pass low pass
+#STAMINA CONTROLLED SPIN
+```
+
+```{r 10 CLASSIC echo=FALSE}
+
+##look for stats
+ggplot(aes(x = stat_value, y = OverallStats), data = subset(stat_gather, stat_gather$POS =="CMF"))+
+  geom_point(alpha = 1/20)+
+   facet_wrap(~ stat)
+
+## 4 variables directamente proporcionales al overallrating ballcontroll dribling lofted y low pass
+
+ggplot(aes(x = stat_value, y = OverallStats), data = subset(stat_gather, stat_gather$POS =="AMF"))+
+  geom_point(alpha = 1/20)+
+   facet_wrap(~ stat)
+
+## AMF variables mas dispersas 2 directamente proporcionales ball controll y dribling
+
+
+ggplot(aes(x = Lofted.Pass, y = OverallStats, color = PlayingStyle), data = subset(player_stats, (player_stats$POS == "AMF" | player_stats$POS == "CMF") & player_stats$PlayingStyle != "N/A"  ))+
+  geom_point()+
+  facet_wrap(~ POS)+
+  labs(title="Lofted.Pass")
+
+##lofted pass en AMF esta mas abajo, pero tiene mas outliers
+
+ggplot(aes(x = Low.Pass, y = OverallStats, color = PlayingStyle), data = subset(player_stats, (player_stats$POS == "AMF" | player_stats$POS == "CMF") & player_stats$PlayingStyle != "N/A"  ))+
+  geom_point()+
+  facet_wrap(~ POS)+
+  labs(title="Low.Pass")
+
+## es igual para low pass
+##lofted pass en AMF esta mas abajo, pero tiene mas outliers
+
+## el AMF es un volante con vocacion ofensiva, lofted y low pass es mas bajo, con mas outliers mas de ataque la diferencia esta en esas variables
+
+#variables ofensivas
+##tres variables para el ataque atacking progress finishing y kicking power
+
+ggplot(aes(x = Attacking.Prowess, y = OverallStats, color = PlayingStyle), data = subset(player_stats, (player_stats$POS == "AMF" | player_stats$POS == "CMF") & player_stats$PlayingStyle != "N/A"  ))+
+  geom_point()+
+  facet_wrap(~ POS)+
+  labs(title="Attacking.Prowess")
+
+ggplot(aes(x = Finishing, y = OverallStats, color = PlayingStyle), data = subset(player_stats, (player_stats$POS == "AMF" | player_stats$POS == "CMF") & player_stats$PlayingStyle != "N/A"  ))+
+  geom_point()+
+  facet_wrap(~ POS)+
+  labs(title="Finishing")
+
+ggplot(aes(x = Stamina, y = OverallStats, color = PlayingStyle), data = subset(player_stats, (player_stats$POS == "AMF" | player_stats$POS == "CMF") & player_stats$PlayingStyle != "N/A"  ))+
+  geom_point()+
+  facet_wrap(~ POS)+
+  labs(title="Stamina")
+
+names(stat_gather)
+##el atacking prowess es mas alto
+
+#la estamina es baja, no supera los 85 puntos para el amf, incluso los volantes con esa propiedad tampoco recisten mucho
+
+levels(stat_gather$stat)
+Attacking.Prowess
+Finishing
+
+## zoom
+ggplot(aes(x = Ball.Control, y = OverallStats, color = PlayingStyle ), data = subset(player_stats, player_stats$POS == "CMF" & player_stats$PlayingStyle != "N/A"  ))+
+  geom_point()
+
+```
+
+```{r exoploracion variables generales echo=FALSE}
+
+by(player_stats, player_stats$Foot, summary)
+dim(player_stats)
+str(player_stats)
+
+#numero de jugadores por pie dominante
+ ggplot(aes(x= Foot), data = player_stats)+
+   geom_bar()+
+   theme_fivethirtyeight()+
+   labs(title="Numero de jugadores por pie dominante")+
+   ylab("Numero de jugadores")+
+   xlab("pie dominante")
+ #muchos mas derechos que zurdos
+ 
+ #numero de jugadores por posicion
+ ggplot(aes(x= POS), data = player_stats)+
+   geom_bar()+
+   theme_fivethirtyeight()+
+   labs(title="Numero de jugadores por posicion")+
+   ylab("Numero de jugadores")+
+   xlab("Posición")+
+   theme_fivethirtyeight()
+ #cb cf gk las que menos hay son lmf y rmf
+ 
+ #numero de jugadores por posicion y pie dominante
+ggplot(players_foot, aes(x = Posicion, y = cantidad, fill = Pie_dominante, label = cantidad)) +
+  geom_bar(stat = "identity") +
+  geom_text(size = 3, position = position_stack(vjust = 0.5))+
+  theme_fivethirtyeight()+
+  scale_fill_fivethirtyeight()+
+  labs(title="Numero de jugadores por posicion y pie dominante")+
+  ylab("Numero de jugadores")+
+  xlab("Posición")+
+  guides(fill=guide_legend(title="Pie Dominante"))
+#la mayor cantidad de jugadores zurdos juegan de laterales por la izquierda
+ 
+#jugadores por edad
+ggplot(aes(x= Age), data = player_stats)+
+   geom_bar()+
+   labs(title="Numero de jugadores por edad")
+
+#la curva de jugadores inicia a caer a los 25 años
+
+#jugadores por altura
+ggplot(aes(x= Height), data = player_stats)+
+   geom_bar()+
+   labs(title="Numero de jugadores por altura")
+#jugadores por peso
+ggplot(aes(x= Weight), data = player_stats)+
+   geom_bar()+
+   labs(title="Numero de jugadores por peso")
+
+#posicion x altura y
+p1 <- ggplot(aes(x=POS, y= Height), data = player_stats)+
+  geom_boxplot()
+#posicion x peso y
+p2 <- ggplot(aes(x=POS, y= Weight), data = player_stats)+
+  geom_boxplot()
+grid.arrange(p1, p2, ncol=1)
+
+# los arquero son los mas altos y mas pesados
+# el delantero centro es el que mas varia su peso y altura
+# jugadores bajitos y jugadores muy altos
+# 
+# la mitad de los jugadores que juegan por los costados (laterales, volantes, extremos)
+# miden menos de 180 con medianas muy similares
+# 
+# los jugadores mas bajitos y menos pesados son los AMF
+
+#grafica de peso vs altura 
+ggplot(aes(x = Height, y= Weight), data = player_stats)+
+  geom_jitter(alpha = 1/20)+
+  facet_wrap(~ POS)+
+  theme_fivethirtyeight()
+
+##casi todos los jugadores pesan 80 y miden 180
+summary(player_stats)
+
+#HABILIDAD POR POSICION
+ggplot(subset(players_style, players_style$Estilo_juego != "N/A"), aes(x = Posicion, y = cantidad, fill = Estilo_juego, label = cantidad))+
+  geom_bar(stat = "identity")+
+  labs(title="Numero de jugadores por posicion habilidad")
+
+#ESTO ESTA MAL
+ggplot(aes(x = PlayingStyle), data = subset(stat_gather, stat_gather$POS =="AMF" & stat_gather$PlayingStyle != "N/A"))+
+  geom_bar()+
+  theme(axis.text.x = element_text(angle = 90))
+names(stat_gather)
+head(stat_gather)
+
+#los jugadores que mas habilidades tinen son los CF 
+#un arquero con habilidad es mas valioso
+#los laterales son offensive y box to box raro uno defensivo
+# hay pocos dummy runner
+# volantes por los lados y los extremos tienen las habilidades en la misma distribucion
+#classic no 10 solo esta en AMF Y CMF
+#creative player maker esta en mayor concentracion en AMF disminuye de extremos a CF
+
+ggplot(aes(x= Attacking.Prowess), data = subset(player_stats, player_stats$POS == "RWF"))+
+   geom_histogram()+
+   labs(title="Numero de jugadores por attacking prowess")
+
+
+```
+
+
+
+
+el peso y la altura tienen relacion ? si casi que son directamente relacionales 
+la altura y la posicion tienen relacion ? cb cf gk las que menos hay son lmf y rmf
+
+cuantos jugadores zurdos ? hya muchos mas jugadores diestros 
+cuantos jugadores por posicion ?
+cuantos jugadores por habilidad ? cual es la que mas se repite ?
+cuantos jugadores por skill ?
+
+

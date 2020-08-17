@@ -1,0 +1,56 @@
+1. installa mongo-tools
+sudo apt install mongo-tools
+
+2. install mongodb (same version of server)
+
+IMPORT JSON ARRAY TO CLUSTER
+
+mongoimport --host Boyaca-shard-0/boyaca-shard-00-00-xyese.mongodb.net:27017,boyaca-shard-00-01-xyese.mongodb.net:27017,boyaca-shard-00-02-xyese.mongodb.net:27017 --ssl --username alejandro --password 3118255798ab* --authenticationDatabase admin --db boyaca --collection municipalities --type json --file /home/alejandro/Documents/boyaca_turismo/boyaca_turismo.json --jsonArray
+
+IMPORT MERGE DOCUMENTS WITH CSV
+
+mongoimport --host Boyaca-shard-0/boyaca-shard-00-00-xyese.mongodb.net:27017,boyaca-shard-00-01-xyese.mongodb.net:27017,boyaca-shard-00-02-xyese.mongodb.net:27017 --ssl --username alejandro --password 3118255798ab* --authenticationDatabase admin --db boyaca --collection municipalities --type csv --file /home/alejandro/Documents/boyaca_turismo/datos_municipio.csv --mode merge --upsertFields name --headerline
+
+
+EXPORT ONE KEY AS CSV
+
+mongoexport --host Boyaca-shard-0/boyaca-shard-00-00-xyese.mongodb.net:27017,boyaca-shard-00-01-xyese.mongodb.net:27017,boyaca-shard-00-02-xyese.mongodb.net:27017 --ssl --username alejandro --password 3118255798ab* --authenticationDatabase admin --db boyaca --collection municipalities --type=csv --out /home/alejandro/Documents/boyaca_turismo/export_test.json --fields name
+
+EXPORT AS JSON
+
+mongoexport --host Boyaca-shard-0/boyaca-shard-00-00-xyese.mongodb.net:27017,boyaca-shard-00-01-xyese.mongodb.net:27017,boyaca-shard-00-02-xyese.mongodb.net:27017 --ssl --username alejandro --password 3118255798ab* --authenticationDatabase admin --db boyaca --collection municipalities --out /home/alejandro/Documents/boyaca_turismo/export_test.json
+
+SUBIR INFORMACION DE HOTELES PARA CRUZAR
+mongoimport --host Boyaca-shard-0/boyaca-shard-00-00-xyese.mongodb.net:27017,boyaca-shard-00-01-xyese.mongodb.net:27017,boyaca-shard-00-02-xyese.mongodb.net:27017 --ssl --username alejandro --password 3118255798ab* --authenticationDatabase admin --db boyaca --collection hotels --type csv --file /home/alejandro/Documents/boyaca_turismo/hoteles_boyaca.csv --headerline
+
+
+PIPELINE OF CSV TO JSON
+in hotels collection
+
+[{$group: {
+  _id: "$DANE_code",
+  hotels: {
+    $push: {hotel_name: "$hotel_name", address: "$address" 
+    , phone_number: {$convert: {input: "$phone_number", to: 2}}, mail: "$mail",owner:"$owner"}
+  }
+}}, {$out: 'hotels_json'}]
+
+PIPELINE TO MERGE hotels_json WITH municipalities
+in municipalities collection
+
+[{$lookup: {
+  from: 'hotels_json',
+  localField: 'dane_code',
+  foreignField: '_id',
+  as: 'hotels_lookup'
+}}, {$addFields: {
+  hotels: "$hotels_lookup.hotels"
+}}, {$unwind: {
+  path: "$hotels",
+  preserveNullAndEmptyArrays: true
+}}, {$project: {
+  hotels_lookup: 0
+}}, {$out: 'municipalities_hotels'}]
+
+EXPORT JSON WITH HOTELS
+mongoexport --host Boyaca-shard-0/boyaca-shard-00-00-xyese.mongodb.net:27017,boyaca-shard-00-01-xyese.mongodb.net:27017,boyaca-shard-00-02-xyese.mongodb.net:27017 --ssl --username alejandro --password 3118255798ab* --authenticationDatabase admin --db boyaca --collection municipalities_hotels --out /home/alejandro/Documents/boyaca_turismo/municipalities_hotels.json

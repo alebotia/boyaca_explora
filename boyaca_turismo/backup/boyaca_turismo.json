@@ -1,0 +1,5149 @@
+[
+{
+    "dane_code": 15001,
+    "name": "Tunja",
+    "name_details": "Baron Prudente",
+    "MASL": 2820,
+    "foundation": "6 de Agosto de 1539 por Gonzalo Suárez Rendón",
+    "tourist_attraction": [
+    {
+        "name": "Semana Santa en Vivo",
+        "another_names": "Semana Mayor de Tunja",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival Internacional de la Cultura",
+        "another_names": "FIC",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    },
+    {
+        "name": "Feria Artesanal",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Comercial",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo Boyacense",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Romería a la Virgen del Milagro",
+        "another_names": "Fiesta de la Patrona de Tunja",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Romería al señor de la Columna",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Romería a la Virgen de Chiquinquira y San Lazaro",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Casa Cultural Gustavo Rojas Piniíla",
+        "another_names": "Casa natal del Expresidente Gustavo Rojas Pinilla",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA HABITACIONAL",
+        "comments": "Siglo XIX, Colonial, Monumento Nacional, Ley 50 9-X-1986 (Declara)"
+    },
+    {
+        "name": "Conjunto del Parque Histórico, la Piedra de Barreiro, las Ruinas del Antiguo Molino Hidráulico y el área de mayor enfrentamiento entre los ejércitos, asociados a la Batalla del Puente de Boyacá.  ",
+        "another_names": "Conjunto del Parque Histórico, la Piedra de Barreiro, las Ruinas del Antiguo Molino Hidráulico y el área de mayor enfrentamiento entre los ejércitos, justo al norte de la carretera que conduce a Samacá, que se encuentran asociados a la Batalla del Puente de Boyacá.  ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "PAISAJE CULTURAL",
+        "comments": "Resolución 1066 2-VIII-2006 (Declara), Dentro del perímetro  del Parque Histórico se encuentran incluidos el Puente de Boyacá, la casa de Teja o de Postas y el Templo de la Libertad"
+    },
+    {
+        "name": "Estación del Ferrocarríl Germania",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX "
+    },
+    {
+        "name": "Estación del Ferrocarril La Vega",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Estación del Ferrocarril Páez Nuevo",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Estación del Ferrocarril Tunja (Antigua)",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Estación del Ferrocarril Tunja (Nueva)",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Plaza de Mercado de Tunja",
+        "another_names": "Edificio del Mercado Público de Tunja",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL COMERCIO",
+        "comments": "1916-1920. Siglo  XX, Republicano, Monumento Nacional, Decreto 3070 20-XII-1990 (Declara) "
+    },
+    {
+        "name": "Sector Antiguo de la ciudad de Tunja",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "SECTORES URBANOS",
+        "comments": "1539. Siglo XVI, Colonial, Monumento Nacional, Ley 163 30-XII-1959 (Declara), Sector Urbano Delimitado"
+    },
+    {
+        "name": "Estación del Ferrocarril Puente de Boyacá",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "MUSEO CASA DEL ESCRIBANO REAL JUAN DE VARGAS ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "CAPILLA MUSEO SANTA CLARA LA REAL ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO ANTROPOLÓGICO DE TUNJA UPTC",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO CASA DEL FUNDADOR GONZALO SUÁREZ RENDÓN ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO DE HISTORIA NATURAL UPTC ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO HISTÓRICO DE LA CASA CULTURAL GUSTAVO ROJAS PINILLA ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO DE HISTORIA DE LA MEDICINA Y LA SALUD DE LA UPTC ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "HERBARIO UPTC ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "RED DE MUSEOS UPTC",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Pozo de Hunzaua", "Cojines del Zaque", "Las Moyas de San Ricardo", "Piedras Pintadas de Tras del Alto", "Casa del Fundador", "Casa del escribano Juan de Vargas", "Casa Juan de Castellanos", "Palacio de la Torre", "Casa de Bernardino Mojica", "Casa de los Holguín (Club Boyacá)", "Catedral Santiago de Tunja", "Iglesia de Santo Domingo", "Iglesia de Santa Clara la Real", "Iglesia San Francisco", "Iglesia de Santa Bárbara", "Iglesia de San Laureano", "Iglesia de las Nieves", "Convento de San Agustin", "Ermita de San Lazaro."],
+    "gastronomy": ["Jueves de Runta", "Cuchuco con Espinazo de Cerdo acompañado de Morcilla", "Chicharrón Totiado", "Chicharrón Carnudo", "Chorizo", "Costilla", "Arroz y Papa Chorreada"]
+},
+{
+    "dane_code": 15022,
+    "name": "Almeida",
+    "name_details": "Ambrocio y Vicente Almeida, Proceres de la Independencia",
+    "MASL": 1925,
+    "foundation": "4 de Julio de 1908 ",
+    "tourist_attraction": [
+    {
+        "name": "Fiesta a la Santísima Trinidad",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": [],
+    "gastronomy": []
+},
+{
+    "dane_code": 15047,
+    "name": "Aquitania",
+    "name_details": "País de las Aguas",
+    "MASL": 3050,
+    "foundation": "26 de Junio de 1777",
+    "tourist_attraction": [
+    {
+        "name": "Fiesta del Señor de los Milagros",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Lago de Tota", "Isla San Pedro de Aquitania", "Playa Blanca", "La Peninsula"],
+    "gastronomy": ["Trucha Arcoíris"]
+},
+{
+    "dane_code": 15051,
+    "name": "Arcabuco",
+    "name_details": "Lugar de matorrales Intrincados",
+    "MASL": 2739,
+    "foundation": "28 de Diciembre de 1866",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a la Virgen del Amparo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Santuario de Fauna y Flora de Iguaque y sus Ocho Lagunas", "Cerro de monserrate", "Cerro de Guadalupe"],
+    "gastronomy": ["Amasijos (Almojabanas, Mantecadas, Repollitas, Ponques, Rosquillas)", "Masato"]
+},
+{
+    "dane_code": 15087,
+    "name": "Belén",
+    "name_details": "Dedicado a Nuestra Señora de Belén",
+    "MASL": 2650,
+    "foundation": "23 de Junio de 1976",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a Nuestra Señora de Belén ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival Nacional de Danza Folklórica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    },
+    {
+        "name": "Capilla Doctrinera Belén de Cerinza",
+        "another_names": "Ermita Belén de Cerinza",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVI, Colonial,Bien de Interés Cultural de Carácter Nacional, Resolución 1686 1-XII-2004 (Declara)"
+    },
+    {
+        "name": "MUSEO EL BÚHO ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Casa Colonial", "Parque al Niño Heroe Pedro Pascasio Martinez", "Ecosistemas del Páramo."],
+    "gastronomy": ["Quesos", "Alfondoques", "Dulcería de Colores."]
+},
+{
+    "dane_code": 15090,
+    "name": "Berbeo",
+    "name_details": "De Juan Francisco Berbeo, Dirigente de la Revolucion Comunera",
+    "MASL": 1525,
+    "foundation": "1743 por San Fernando de Agua Blanca",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a San Joaquin",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Convento de los Jesuitas del siglo XVIII", "Puentes Colgantes sobre el río Lengupa", "Laguna de los Cajones"],
+    "gastronomy": ["Producción de Miel de caña"]
+},
+{
+    "dane_code": 15092,
+    "name": "Betéitiva",
+    "name_details": "Capitan del Boqueron y  Cacique Betancín",
+    "MASL": 2575,
+    "foundation": "1743 por San Fernando de Agua Blanca",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a la Virgen del Rosario",
+        "another_names": "",
+        "patrimonial_group": "Patrmonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Romeria Virgen de la O en Otengá",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Capilla Doctrinera Betéitiva",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "1556. Siglo XVI, Bien de Interés Cultural de Carácter Nacional, Resolución 1686 1-XII-2004 (Declara)"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Concurso Nacional de Hilanderas ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    }],
+    "other_attraction": ["Capilla Doctrinera del Siglo XVII", "Convento de Otengá del Siglo XVII"],
+    "gastronomy": ["Arepas de Maíz"]
+},
+{
+    "dane_code": 15097,
+    "name": "Boavita",
+    "name_details": "Punta del Cerro Consagrado a Dios",
+    "MASL": 2114,
+    "foundation": "28 de Enero de 1756",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a la Virgen de la Estrella",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Presentación en Vivo de los Reyes Magos",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial", "Reservas Ecológicas Naturales"],
+    "gastronomy": ["Mazamorra de Maíz", "Chivo."]
+},
+{
+    "dane_code": 15104,
+    "name": "Boyacá",
+    "name_details": "Tierra de las Mantas",
+    "MASL": 2475,
+    "foundation": "1556",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a la Inmaculada Concepción",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Fiesta en Honor a San Isidro",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial estilo Gótico", "Casa de la Cultura"],
+    "gastronomy": ["Carne Sudada, Arracacha, Papa, Todo Cocído en Olla de Barro acompañado por Guarapo o Chicha, Maíz Tostado y Ajiaco envuelto en Hoja de Risgua."]
+},
+{
+    "dane_code": 15106,
+    "name": "Briceño",
+    "name_details": "Homenaje al General Manuel Briceño",
+    "MASL": 1500,
+    "foundation": "1906",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a Nuestra Señora del Amparo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Artesanías",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": ""
+    }],
+    "other_attraction": [],
+    "gastronomy": []
+},
+{
+    "dane_code": 15109,
+    "name": "Buenavista",
+    "name_details": "Por la Belleza de su Paisaje",
+    "MASL": 1884,
+    "foundation": "1903",
+    "tourist_attraction": ["Cascadas de la Quebrada Negra", "Río el Salto"],
+    "other_attraction": [
+    {
+        "name": "Fiestas Patronales a San Pedro",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "gastronomy": []
+},
+{
+    "dane_code": 15114,
+    "name": "Busbanzá",
+    "name_details": "Honor al Cacique Busbanza",
+    "MASL": 2480,
+    "foundation": "1851",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a Santa Lucía",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo  ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cerro del Viacrucis", "Iglesia Parroquial Doctrinera del Siglo XVII"],
+    "gastronomy": ["Almojabanas", "Cocido Boyacense"]
+},
+{
+    "dane_code": 15131,
+    "name": "Caldas",
+    "name_details": "En Honor al Sabio Francisco José Caldas",
+    "MASL": 2660,
+    "foundation": "28 de Agosto de 1837",
+    "tourist_attraction": [
+    {
+        "name": "Artesanías y Algodón",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": [],
+    "gastronomy": []
+},
+{
+    "dane_code": 15135,
+    "name": "Campohermoso",
+    "name_details": "Tierra de los indios Teguas",
+    "MASL": 1300,
+    "foundation": "1823 por Luis Enriquez",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a San Roque y Santa Ana",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival del Folklor Llanero",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cascada el Chorrerón", "Laguna del Encanto", "La Pichonera", "Los Puentes Colgantes", "Balnearios del Río Lengupá", "Vereda de Teguas", "Mirador al Llano", "Quebrada Blanca y Colorada"],
+    "gastronomy": ["Gallina al Horno", "Arepa de Maíz", "Sancocho con Carne", "Arracha y Malanga", "Carne a la Llanera", "Plátano Verde y guarapo"]
+},
+{
+    "dane_code": 15162,
+    "name": "Cerinza",
+    "name_details": "Mi Garganta y en Honor al Cacique Cerenza",
+    "MASL": 2725,
+    "foundation": "1650",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a Santa Lucía de Cerinza",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Canastos, Sombreros en Caña Brava y en Lana de Oveja."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Alto del Tibé", "Laguna Careperro", "Iglesia Parroquial", "Cerro del Calvario", "Capilla de Santa Barbara", "Cerro de la Tiba"],
+    "gastronomy": ["Queso de Estera"]
+},
+{
+    "dane_code": 15189,
+    "name": "Ciénega",
+    "name_details": "Lugar de Agua",
+    "MASL": 2400,
+    "foundation": "1817 por el virrey Juan Sámano",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a la Inmaculada Concepción",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruanas, Frasadas en Lana de Oveja y Lienzos"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Laguna de la Calderona", "La Iglesia Parroquial con 3 naves", "Páramo de San Vicente", "el Chorro de la Vieja"],
+    "gastronomy": ["Arepas de maíz"]
+},
+{
+    "dane_code": 15204,
+    "name": "Cómbita",
+    "name_details": "Mano de Tigre o Fuerza de la Cumbre",
+    "MASL": 2825,
+    "foundation": "1843",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de la Inmaculada Concepción",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Templo Parroquial", "Minas Rusticas de Carbón"],
+    "gastronomy": ["Mazamorra Chiquita"]
+},
+{
+    "dane_code": 15212,
+    "name": "Coper",
+    "name_details": "Apoyo, anteriormente se llamó Copere",
+    "MASL": 960,
+    "foundation": "1776",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en Honor a Santo Ecce Homo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos en Algodón y Sombreros de Paja"
+    }],
+    "other_attraction": ["Minas de Explotación de esmeralda, cobre y sal"],
+    "gastronomy": []
+},
+{
+    "dane_code": 15215,
+    "name": "Corrales",
+    "name_details": "antes llamado Lino de los Corrales",
+    "MASL": 2400,
+    "foundation": "1782",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de San Judas Tadeo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruanas, Frasadas, Lienzos en lana de oveja y Alpargatas de Fique"
+    },
+    {
+        "name": "Casa donde murió el General Juan José Reyes Patria",
+        "another_names": "Casa del General Juan José Reyes Patria. Héroe de la Batalla de Gámeza ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA HABITACIONAL",
+        "comments": "Siglo XVIII, Colonial, Monumento Nacional, Ley 51 26-XII-1967 (Declara)"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Casa donde murió Juan José reyes Patria", "Parque Central Juana escobar"],
+    "gastronomy": ["Génovas", "Mogollas", "Mute de Cordero"]
+},
+{
+    "dane_code": 15218,
+    "name": "Covarachia",
+    "name_details": "Cueva de la Luna",
+    "MASL": 2320,
+    "foundation": "1819",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de San Luis Beltrán",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanías Típicas",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Objetos en Fique y ruanas en lana de Ovejas"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Alto de la Virgen de Fátima"],
+    "gastronomy": []
+},
+{
+    "dane_code": 15223,
+    "name": "Cubará",
+    "name_details": "de origen Tunebo",
+    "MASL": 1350,
+    "foundation": "1965",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a San Miguel",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Mochilas o Chácaras en Fique, Productos Medicinales como la Caraña y Otoba"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Reserva Indígena de los U´was"],
+    "gastronomy": ["Arepas de Maíz", "Chicha"]
+},
+{
+    "dane_code": 15224,
+    "name": "Cucaita",
+    "name_details": "Cercado del Seminario",
+    "MASL": 2640,
+    "foundation": "1962",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de Santa Lucía",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanias Típicas",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanias",
+        "comments": "Cobijas y Ruanas en Lana de Oveja "
+    },
+    {
+        "name": "Capilla Doctrinera Cucaita",
+        "another_names": "Antiguo Templo de Indios de Cucaita",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVII, Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 1686 1-XII-2004 (Declara), Edificada sobre la Iglesia Pajiza original "
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial Doctrinera del Siglo XVII", "Palacio Municipal", "Casa Parroquial"],
+    "gastronomy": ["Cocido Boyacense", "Mazamorra de Maiz"]
+},
+{
+    "dane_code": 15172,
+    "name": "Chinavita",
+    "name_details": "Nuestra Punta",
+    "MASL": 1763,
+    "foundation": "1823",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de la Virgen del Amparo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos en Ruana de Oveja y en fique"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Aguas Azufradas del rio Garagoa", "Plaza de Toros", "Sierra de los Quinchos"],
+    "gastronomy": ["Cocido Boyacense", "Arepas de Maíz"]
+},
+{
+    "dane_code": 15176,
+    "name": "Chiquinquira",
+    "name_details": "Lugar Pantanoso y Cubierto de Niebla",
+    "MASL": 2587,
+    "foundation": "1636",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de la Virgen de Chiquinquirá",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la Guabina Chiquinquireña",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la Tagua y la Turra",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    },
+    {
+        "name": "Encuentro nacional de Escritores Colombianos",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Instrumentos Musicales, Objetos en Tagua"
+    },
+    {
+        "name": "Estación del Ferrocarril Chiquinquirá",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "1926. Siglo XX, Transición, Monumento Nacional, Decreto 746 24-IV-1996 (Declara)Decreto 3053 19-XII-1990 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX. "
+    },
+    {
+        "name": "MUSEO NACIONAL MARIANO ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "Arte Religioso",
+        "comments": "Parroquia De La Renovación - Padres Dominicos"
+    },
+    {
+        "name": "MUSEO DEL MINERO - EN FORMACIÓN",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO DE ARTES Y TRADICIONES POPULARES DE BOYACÁ OCTAVIO QUIÑONES PARDO ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": [],
+    "gastronomy": ["Jamón", "Ponqués", "Productos Lácteos"]
+},
+{
+    "dane_code": 15232,
+    "name": "Chíquiza",
+    "name_details": "Solamente Sacerdote",
+    "MASL": 2500,
+    "foundation": "1982",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de San Isidro",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Fiestas de San Pedro",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Canastos y Sombreros de Paja"
+    },
+    {
+        "name": "Capilla Doctrinera de San Isidro de Chíquiza",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVIII, Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 1686 1-XII-2004 (Declara)"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Santuario de Fauna Y Flora de Iguaque", "Capilla Doctrinera del siglo XVII"],
+    "gastronomy": ["Cocido Boyacense"]
+},
+{
+    "dane_code": 15180,
+    "name": "Chiscas",
+    "name_details": "Lugar Senagosa",
+    "MASL": 2368,
+    "foundation": "1764",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de San Antonio de Padua",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos de Cobijas y ruanas en lanma de oveja"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Vereda de las Mercedes con arquitectura Colonial", "laguna de las Orozcas"],
+    "gastronomy": ["Chivo"]
+},
+{
+    "dane_code": 15183,
+    "name": "Chita",
+    "name_details": "Nuestra Labranza",
+    "MASL": 3000,
+    "foundation": "1621",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales del Señor de los Milagros y Virgen de la Candelaria",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruanas de Lana de Oveja"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial", "Parque Principal", "Asentamientos de los Laches", "Laguan de Eucas", "Lagunas de la Batanera", "Monumento de Monserrate", "Sierra Nevada de Chita"],
+    "gastronomy": ["Chivo", "Mute"]
+},
+{
+    "dane_code": 15185,
+    "name": "Chitaraque",
+    "name_details": "Nuestra Vigoroza Labranza de Atrás",
+    "MASL": 1571,
+    "foundation": "1692",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de San pedro Claver",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": [],
+    "gastronomy": []
+},
+{
+    "dane_code": 15187,
+    "name": "Chivatá",
+    "name_details": "Nuestra Labranza de fuera",
+    "MASL": 2903,
+    "foundation": "1962",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de la Virgen del Rosario",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruanas en lana de ovejas"
+    },
+    {
+        "name": "Ermita de Chivatá",
+        "another_names": "Capilla Doctrinera",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVII, Colonial, Monumento Nacional, Resolución 1686 1-XII-2004 (Declara), Pertenece al Conjunto de Sitios Históricos, Accidentes Geográficos e Inmuebles, que conforman la Ruta de la Campaña Libertadora."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Capilla Parroquial doctrinera del Siglo XVII", "Monumento al Niño campesino"],
+    "gastronomy": ["Cocido Boyacense"]
+},
+{
+    "dane_code": 15235,
+    "name": "Chivor",
+    "name_details": "Nuestra Madre",
+    "MASL": 1850,
+    "foundation": "23 de Diciembre de 1990",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a la Virgen del Pilar de Guali",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Minas de Esmeraldas", "Cascada el Chorrerón de Guali", "Embalde de Chivor"],
+    "gastronomy": ["Arepas de Maíz", "chicha"]
+},
+{
+    "dane_code": 15238,
+    "name": "Duitama",
+    "name_details": "Caserio Indigena Tundama",
+    "MASL": 2530,
+    "foundation": "1556",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales al Niño Jesus y los Reyes Magos",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la Chicha",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    },
+    {
+        "name": "Semana Bolivariana",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Cultural",
+        "comments": ""
+    },
+    {
+        "name": "Artesanías Típicas",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "tejidos en lana de oveja, pañolones, muebles de madera."
+    },
+    {
+        "name": "Estación del Ferrocarril Duitama",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX."
+    },
+    {
+        "name": "Estación del Ferrocarril Bonza",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Museo de Arte Religioso", "Hacienda de Bonza", "Alto de la Virgen", "La Unidad Deportiva", "Plaza de Toros Cesar Rincón", "Plaza de los Libertadores", "Catedral"],
+    "gastronomy": ["Amasijos", "Tamales", "Chicha", "Tierra de Frutales"]
+},
+{
+    "dane_code": 15244,
+    "name": "El Cocuy",
+    "name_details": "Buen Amigo",
+    "MASL": 2700,
+    "foundation": "1811",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de Nuestra Señora de las Misericordias y San Antonio de Padua",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo Cocuyano",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanias",
+        "comments": "Ruanas en lana de oveja y sombreros en tapia pisada"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Sierra nevada del Cocuy", "Casa donde nació el Presidente Santos Gutierrez", "Iglesia Parroquial", "Parque Principal", "Laguna de las Grazas", "Laguna de la Leche", "Laguna de San Paulino", "Laguna la Grande"],
+    "gastronomy": ["Mute con Chivo"]
+},
+{
+    "dane_code": 15248,
+    "name": "El Espino",
+    "name_details": "En honor al Arbol del Espino",
+    "MASL": 2100,
+    "foundation": "11 de Diciembre de 1790",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de San Ramón Nonato",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanías Típicas",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruanas en lana de oveja, tejidos de algodón y sombreros de paja"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Páramo espinenze"],
+    "gastronomy": ["Chivo"]
+},
+{
+    "dane_code": 15272,
+    "name": "Firavitoba",
+    "name_details": "En Honor al Cacique Firavia",
+    "MASL": 2500,
+    "foundation": "1798",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales a la Virgen de las Nieves",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanías Típicas",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos de lana de oveja y algodón"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial estilo Gótico", "Hacienda de la Compañía de los Jesuitas", "Hacienda de las Monjas"],
+    "gastronomy": ["Queso Doble Crema", "Cosido", "Chicha"]
+},
+{
+    "dane_code": 15276,
+    "name": "Floresta",
+    "name_details": "Entre las Flores",
+    "MASL": 2584,
+    "foundation": "1818",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en Honor a la Virgen del Amparo y de Tobacia",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruanas, cobijas en lana de oveja"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Inspecciòn de Tobacia con capilla Antigua Colonial", "Parque Principal"],
+    "gastronomy": ["Cocido Boyacense", "Chicha", "Gallina con arepa"]
+},
+{
+    "dane_code": 15293,
+    "name": "Gachantiva",
+    "name_details": "Capital de las Gachas",
+    "MASL": 2450,
+    "foundation": "1786",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en Honor a la Virgen de la Cueva Santa",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Productos de lana, aceite de higuerilla"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Laguna de la Colorada", "Cascada de la Periquera", "Pozo la Vega", "Iglesia Parroquial", "minas de Cobre"],
+    "gastronomy": ["Sopa de Maíz", "Guarapo"]
+},
+{
+    "dane_code": 15296,
+    "name": "Gámeza",
+    "name_details": "Siervo del Sol",
+    "MASL": 2750,
+    "foundation": "7 de Diciembre de 1776",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en Honor a San Laureano",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruana y cobijas en lana de oveja"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["El puente de gámeza", "capilla colonial", "laguna la larga", "laguna tirones", "laguna de los patos", "laguna verde"],
+    "gastronomy": ["Tamales", "envueltos de maiz"]
+},
+{
+    "dane_code": 15299,
+    "name": "Garagoa",
+    "name_details": "Al otro lado del cerro",
+    "MASL": 1700,
+    "foundation": "1754",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales de Virgen de la candelaria",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo Garagoense",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Canastos, lienzos y sobreros de paja"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia parroquial estilo gòtico", "Parque principal", "Cerro de mamapacha", "balneario", "Puente Ospina", "Alto de Santa Bárbara", "Laguna de Mamapacha"],
+    "gastronomy": ["envueltos de maíz", "arepas", "amasijos"]
+},
+{
+    "dane_code": 15317,
+    "name": "Guacamayas",
+    "name_details": "Cercado del sol",
+    "MASL": 2200,
+    "foundation": "1778",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en Honor a San Diego del Alcala Diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Cestería en rollo cubierto en fique de colores, y alpargatas"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia parroquial", "parque principal"],
+    "gastronomy": ["Quesos de Hosa", "chivo"]
+},
+{
+    "dane_code": 15322,
+    "name": "Guateque",
+    "name_details": "Riachuelo de la Caña",
+    "MASL": 2060,
+    "foundation": "1754",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Roque",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Feria agrìcola en junio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de luces en honor a la Virgen del Carmen - Julio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Canastos en caña brava"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Casa Museo Enrique Olaya Herrera", "Iglesia Paroquial del Siglo XVIII", "Palacio Municipal Estilo Republicano", "Centro vacacional la Gironda", "El mirador de Guanza arriba", "Parque recreacional la Colina"],
+    "gastronomy": ["Elaboración de sabajón", "arepas de maíz pelado", "arepas de queso", "gallina", "piquete y fritanga"]
+},
+{
+    "dane_code": 15325,
+    "name": "Guayatá",
+    "name_details": "Sembrado o dominio de la cacica",
+    "MASL": 1600,
+    "foundation": "4 de Mayo de 1819",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Isidro - Noviembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Feria Ganadera",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Día del Campesino - mayo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Ferias y Fiestas en Noviembre 10 al 13",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Empaques de fique, sombreros de paja, tejidos de lana y algodón."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Quebrada Risajá", "Cueva de los murcielagos", "Iglesia Moderna con cúpulas ( Ornamentos y sillas donadas por el Gral Francisco de Paula Santrander )"],
+    "gastronomy": ["Mogollas de Guayatá"]
+},
+{
+    "dane_code": 15332,
+    "name": "Guican de la Sierra",
+    "name_details": "Cercado de la esposa, tierra de los indios Guican",
+    "MASL": 2900,
+    "foundation": "1756",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en Honor a Virgen Morenita de Guicán Febrero 1 y 2",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos en lana de oveja"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cueva del Cuchamba", "Sierra Nevada del Guican", "Aguas termales", "Laguna de la Garza", "el Peñón de los Muertos", "Cueva de San Roque", "El pico de Ortega", "Reserva Indigena de Monserrate"],
+    "gastronomy": ["Chivo", "Mute", "chicha"]
+},
+{
+    "dane_code": 15362,
+    "name": "Iza",
+    "name_details": "Noche o Lugar de Curación",
+    "MASL": 2500,
+    "foundation": "10 de Noviembre de 1758",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Divino Salvador de la Piedra - Agosto.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Enceuntro Folclorico regional Bochica - Enero",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos en lana de oveja, ruana y cobijas"
+    },
+    {
+        "name": "Poblado de Iza ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "SECTORES URBANOS",
+        "comments": "Anterior a 1492, Postlcásico, Bien de Interés Cultural de Carácter Nacional, Resolución 0617 11-IV-2002 (Declara) "
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Piscinas de Aguas Termales", "Piedra del Cacique", "Iglesia Parroquial", "Casa donde nació el presidente Sergio Camargo", "Casa Cultural Musical Francisco Cristancho Camargo"],
+    "gastronomy": ["Cocido Boyacense", "Tamales", "Postres a base de leche"]
+},
+{
+    "dane_code": 15367,
+    "name": "Jenesano",
+    "name_details": "Nombre de la Villa de Italia Genezzano",
+    "MASL": 2100,
+    "foundation": "1829 - Simon Bolivar",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en Honor a Nuestra Señora de la Salud - Enero 7 al 12",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial", "Parque Principal", "Alto de la Virgen", "Las Vegas del Rio Jenesano"],
+    "gastronomy": ["Garullas", "Almojabanas", "Vino de Feijoa", "Pan de Maíz", "Mute de mazorca", "envueltos"]
+},
+{
+    "dane_code": 15368,
+    "name": "Jericó",
+    "name_details": "Nombre de Nuestra Señora de la Concepción de Jericó",
+    "MASL": 3100,
+    "foundation": "1921",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en Honor a la Virgen de la Salud - Marzo 16 al 18, Virgen del Carmen",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Cobijas, ruanas y gorros en Lana de Oveja, Canastos y sombreros en plama de Oche."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Vereda de Cheva", "Paramo de Jericó"],
+    "gastronomy": ["Gallina", "arepas de maíz pelao"]
+},
+{
+    "dane_code": 15377,
+    "name": "Labranzagrande",
+    "name_details": "Grande labranza de la región. ",
+    "MASL": 1210,
+    "foundation": "1568",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Virgen del Carmen - Julio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cerro del Comejoque", "alto de la Virgen", "playas del río Cravo", "el playón", "casas del siglo XVII"],
+    "gastronomy": ["Carne oreada con yuca y plátano asado", "ternera a la llanera"]
+},
+{
+    "dane_code": 15380,
+    "name": "La Capilla",
+    "name_details": "Nombre de la ermita que levantaron los vecinos de Tenza.",
+    "MASL": 1754,
+    "foundation": "1793",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Virgen de la Candelaria  Febrero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia parroquial en estilo gótico", "Cascada de las quebradas Gusva", "Barro Blanco arriba", "la Culata", "Chaguatoque"],
+    "gastronomy": ["Arepas rellenas de queso", "amasijos"]
+},
+{
+    "dane_code": 15403,
+    "name": "La Uvita",
+    "name_details": "Por los cultivos de los uvos",
+    "MASL": 2370,
+    "foundation": "1758",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Nuestra Señora del Tabor- Septiembre 24.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival del Uvo.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Reinado y concurso de grupos musicales - Enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo uvitano- Diciembre 16-24.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Cobijas y ruanas en lana de oveja."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia parroquial", "parque peincipal", "cerro del Tabor"],
+    "gastronomy": ["Chivo", "pipitoria", "quesos de Cusaguí"]
+},
+{
+    "dane_code": 15401,
+    "name": "La Victoria",
+    "name_details": "Nuestra señora de las Victorias.",
+    "MASL": 1250,
+    "foundation": "19566",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Nuestra Señora de las Victorias.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": [],
+    "gastronomy": ["Carne oreada con yuca y plátano asado"]
+},
+{
+    "dane_code": 15425,
+    "name": "Macanal",
+    "name_details": "Macana, garrote de combate de los aborígenes.",
+    "MASL": 1860,
+    "foundation": "1808",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Pedro Alcántara- Diciembre 24-27",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Canastos en caña de castilla."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Alto del Cristo rey", "alto de la Virgen", "cerro volador desde donde se divisa la represa de Chivor", "alto del Arzobispo"],
+    "gastronomy": ["Sancocho de gallina", "arepas"]
+},
+{
+    "dane_code": 15442,
+    "name": "Maripí",
+    "name_details": "Hijo de Fura y Tena en lengua de los muzos.",
+    "MASL": 1250,
+    "foundation": "Noviembre 23 de 1784",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a La Virgen de la Candelaria - Febrero 1-3",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Minas de esmeraldas y oro"],
+    "gastronomy": ["Miel de caña", "carne oreada con yuca y plátano asado"]
+},
+{
+    "dane_code": 15455,
+    "name": "Miraflores",
+    "name_details": "Por la abundancia de flores de ocobo.",
+    "MASL": 1875,
+    "foundation": "1744",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Juan y a La Virgen del Rosario - enero 17-22.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival regional de intérpretes de la copla.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Alto de la Virgen de Fátima", "casa donde vivió y murió el presidente Sergio Camargo", "casa donde nació Ezequiel rojas fundador e ideólogo del partido liberal colombiano", "casa donde nació el presidente Santos Acosta", "parque principal", "cascada El Chorrerón de la Tuldina", "la cascada de la Jamaica"],
+    "gastronomy": ["Sancocho", "carne", "yuca", "plátano asado y ternera a la llanera"]
+},
+{
+    "dane_code": 15464,
+    "name": "Mongua",
+    "name_details": "Baño del cerro o salida del sol. Pueblo indígena anterior a la conquista.",
+    "MASL": 2980,
+    "foundation": "Abril 3 de 1799",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Jéronimo y a La Virgen de la Candelaria - Febrero 1-3.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos en lana de oveja."
+    },
+    {
+        "name": " Museo CAPILLA EXPOSICIÓN ARQUEOLÓGICA DE MONGUA ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": "A Cargo De La Alcaldía y La Parroquia"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Laguna Negra", "Se encuentran las estatuas de Mongua", "el páramo de San Ignacio", "Templo parroquial en piedra y tres naves"],
+    "gastronomy": ["Los Jutes", "mute", "mazamorra de dulce con queso", "las chirozas", "cocido boyacense"]
+},
+{
+    "dane_code": 15466,
+    "name": "Monguí",
+    "name_details": "De Monjií, antigua fortaleza de las montañas para la defensa de Barcelona (España).",
+    "MASL": 2920,
+    "foundation": "1601",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a La Virgen de Monguí.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Semana Santa en Vivo, jueves y viernes santos.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Representación en vivo del nacimiento de Jesús - Diciembre 24.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Representación teatral de los Reyes Magos - Enero 6",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Balcones de cuero de Monguí."
+    },
+    {
+        "name": "Capilla de San Antonio",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVII, Colonial, Monumento Nacional, Decreto 291 24-II-1975 (Declara) "
+    },
+    {
+        "name": "Centro Urbano de Monguí",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "SECTORES URBANOS",
+        "comments": "1555. Siglo XVI, Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 0087 02-II-2005 (Declara)"
+    },
+    {
+        "name": "Iglesia y Convento de San Francisco",
+        "another_names": "Iglesia y Convento Franciscano de Nuestra Señora de Monguí. Basílica y Convento de Nuestra Señora de Monguí",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "1703. Siglo XVIII, Colonial, Monumento Nacional, Decreto 291 24-II-1975 (Declara), El convento Alberga la colección de cuadros de Caballete pintados por Gregorio Vásquez de Arce y Ceballos"
+    },
+    {
+        "name": "Puente Colonial Calicanto ",
+        "another_names": "Puente de Calicanto",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "OBRAS DE INGENIERÍA",
+        "comments": "Siglo XVIII, Colonial, Monumento Nacional, Decreto 291 24-II-1975 (Declara) "
+    },
+    {
+        "name": "MUSEO DE ARTE RELIGIOSO DE MONGUÍ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": "Diócesis De Duitama - Parroquia De Monguí"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Puente Calicanto", "Iglesia y convento de los franciscanos donde se encuentran cuadros del pintor Gregorio Vásquez de Arce y Ceballos (Siglo XVII)", "páramo de Ocetá", "la cueva de Toya", "Casa Cultural de Monguí"],
+    "gastronomy": ["Piquete boyacense", "mazamorra chiquita"]
+},
+{
+    "dane_code": 15469,
+    "name": "Moniquirá",
+    "name_details": "Ciudad del baño.",
+    "MASL": 1700,
+    "foundation": "1778",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor al Divino Niño Jesús, ferias y fiestas - Diciembre 16-20.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Fiesta a la Virgen del Carmen- julio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de verano y reinado de la tanga - Enero 6-8. ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Centro recreacional de Comfaboy", "centro recreacional de Canapro", "torre de destilación de alcoholes de la Industria Licorera de Boyacá", "la cascada del Pómeca"],
+    "gastronomy": ["Piquete ricauteño: carne asada, chorizos, yuca, plátano, gallina, todo envuelto en hojas de plátano y acompañado de ají, chicha o guarapo y mute de mazorca con pata", "bocadillos", "panelitas de leche", "tumes", "arequipe", "queso mantequilludo"]
+},
+{
+    "dane_code": 15476,
+    "name": "Motavita",
+    "name_details": "",
+    "MASL": 0,
+    "foundation": "",
+    "tourist_attraction": [
+    {
+        "name": "Capilla Doctrinera Motavita",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVII, Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 1686 1-XII-2004 (Declara)"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": [],
+    "gastronomy": []
+},
+{
+    "dane_code": 15480,
+    "name": "Muzo",
+    "name_details": "Nombre de los indios muzos que adoraban al dios Are.",
+    "MASL": 815,
+    "foundation": "1558",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen de la Naval - Octubre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Aniversario del municipio, ferias y fiestas - Febrero 21'23.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Museo Arqueológico con piezas de orfebrería y cerámica de los muzos", "parque principal", "minas de esmeraldas"],
+    "gastronomy": ["Carne asada con yuca, plátano, ají y guarapo"]
+},
+{
+    "dane_code": 15491,
+    "name": "Nobsa",
+    "name_details": "Digno baño de hoy.",
+    "MASL": 2500,
+    "foundation": "Enero 9 de 1593",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Roque - Enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Concurso de acordeón provinciano y de la canción inédita - Junio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la Cobija y la ruana - Septiembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la vid y el vino en Punta Larga - Noviembre 11-13.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos en lana de oveja (cobijas, ruanas, bufandas, sacos, guantes, etc), muebles coloniales en madera de Punta Larga."
+    },
+    {
+        "name": "Estación del Ferrocarril Belencito",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX."
+    },
+    {
+        "name": "MUSEO SIDERÚRGICO DE COLOMBIA ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": "Acerías Paz Del Río, S.A."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Ermita de Lourdes", "Cruz de Aranda", "los viñedos de Punta Larga", "templo parroquial", "vereda de Ucuengá", "capilla doctrinera de Belencito"],
+    "gastronomy": ["Mazamorra chiquita", "cuchuco de trigo con espinazo de marrano", "dulce de brevas", "fabricación de los vinos de Punta Larga"]
+},
+{
+    "dane_code": 15494,
+    "name": "Nuevo Colón",
+    "name_details": "En homenaje al almirante Cristóbal Colón, antiguamente se llamó Chiriví",
+    "MASL": 2450,
+    "foundation": "1681",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Nuestra Señora de la Antigua o Santamaría la Antigua - Enero 18-20.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Hacienda de los Aposentos, que perteneció al fundador de Tunja (siglo XVI)", "casa de la Alcaldía Municipal", "capilla parroquial", "parque principal"],
+    "gastronomy": ["Pan  y mogollas", "frutas: duraznos, ciruelas, manzanas, curubas, peras, por lo que se llama la capital frutera de Colombia"]
+},
+{
+    "dane_code": 15500,
+    "name": "Oicatá",
+    "name_details": "Dominio de sacerdotes o labranza de Pedrisco.",
+    "MASL": 2815,
+    "foundation": "1697",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen del Tránsito - Agosto 15-17.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Capilla Doctrinera Oicatá",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "1616. Siglo XVII, Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 1686 1-XII-2004 (Declara)"
+    },
+    {
+        "name": "Estación del Ferrocarril Oicatá",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Capilla doctrinera siglo XVII"],
+    "gastronomy": ["Cocido boyacense", "mazamorra chiquita"]
+},
+{
+    "dane_code": 15507,
+    "name": "Otanche",
+    "name_details": "",
+    "MASL": 1000,
+    "foundation": "Noviembre 20 de 1960",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen - Diciembre 6-8.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["La serranía de las Quinchas", "las Cascadas de los Ríos Chirche, Sacán y Moras"],
+    "gastronomy": []
+},
+{
+    "dane_code": 15511,
+    "name": "Pachavita",
+    "name_details": "Cumbre del Hombre o padre.",
+    "MASL": 2000,
+    "foundation": "1796",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Isidro y a la Virgen de Guadalupe - Diciembre 9-10",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo de Pachavita.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Cestería en bejuco y raíz de gaque."
+    }],
+    "other_attraction": ["El cerro de la Cristalina", "cascada del Infierno", "parque principal", "piedras del adoratorio", "laguna del Oso", "termales en la vereda Soaquira", "entierros indígenas"],
+    "gastronomy": []
+},
+{
+    "dane_code": 15514,
+    "name": "Páez",
+    "name_details": "En honor a José Antonio Páez, apodado el León de Apure",
+    "MASL": 1500,
+    "foundation": "1962",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Isidro - Enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival de Upía - Diciembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Alto de la Virgen y el mirador de Lengupá", "parque principal"],
+    "gastronomy": ["Carne a la llanera", "ajiaco con pollo o gallina"]
+},
+{
+    "dane_code": 15516,
+    "name": "Paipa",
+    "name_details": "Patrón o gran señor. Cacique de la tribu de los paipas.",
+    "MASL": 2513,
+    "foundation": "Febrero 19 de 1602",
+    "tourist_attraction": [
+    {
+        "name": "Festival nacional de bandas - septiembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la ruana y el pañolón - Marzo.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Concurso de Hilanderas - abril.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo paipano - diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la almojábana - agosto.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos en lana de oveja."
+    },
+    {
+        "name": "Casa de Hacienda El Salitre",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA HABITACIONAL",
+        "comments": "1772. Siglo XVIII, Colonial, Monumento Nacional, Decreto 290 24-II-1974 (Declara), Actual Hotel"
+    },
+    {
+        "name": "Concurso Nacional de Bandas ",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO INMATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "",
+        "comments": "Bien de Interés Cultural de Carácter Nacional, Resolución 1262 22-IX-2004 (Declara)"
+    },
+    {
+        "name": "Estación del Ferrocarril Paipa",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Estación del Ferrocarril Soconsuca",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Monumento del Pantano de Vargas",
+        "another_names": "Monumento del Pantano de Vargas y Reserva Nacional del Terreno Alrededor de 1 Km del Monumento ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "MONUMENTO EN ESPACIO PÚBLICO",
+        "comments": "Siglo XX Monumento Nacional, Decreto 1744 1-IX-1975 (Declara), "
+    },
+    {
+        "name": "Cerro El Cangrejo",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "Accidente Geográfico",
+        "comments": "Monumento Nacional, Decreto 1744 1-IX-1975 (Declara), Lugar donde se erige el Monumento de Pantano de Vargas. Pertenece al conjunto de Sitios Históricos, Accidentes Geográficos e Inmuebles, que conforman la Ruta de la Campaña Libertadora"
+    },
+    {
+        "name": "CENTRO DE MEMORIAS",
+        "another_names": "",
+        "patrimonial_group": "",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "FUNDACIÓN HISTORIA VIVA PANTANO DE VARGAS",
+        "another_names": "",
+        "patrimonial_group": "",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Centro de hidroterapia y piscinas termales", "monumento a los Lanceros en el Pantano de vargas", "lago de Sochagota", "termoeléctrica de Paipa", "cascadas de Palermo", "concha acústica Valentín García", "Hacienda El Salitre"],
+    "gastronomy": ["Almojábanas", "pan de yuca", "amasijos", "masato"]
+},
+{
+    "dane_code": 15518,
+    "name": "Pajarito",
+    "name_details": "",
+    "MASL": 800,
+    "foundation": "1853",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Rafael - marzo 18-20.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cuchillas de Alta Gracia", " Guamará y las islas"],
+    "gastronomy": ["Ternera a la llanera", "yuca asada", "plátano patacón", "guarapo"]
+},
+{
+    "dane_code": 15522,
+    "name": "Panqueba",
+    "name_details": "Nombre del cacique de la tribu de los laches, Pamqueba.",
+    "MASL": 2225,
+    "foundation": "1832",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen de la Salud - febrero 3-4.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanias",
+        "comments": "Alpargates de fique y sombreros en tapia pisada."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Aguas termales"],
+    "gastronomy": ["Mute de chivo"]
+},
+{
+    "dane_code": 15531,
+    "name": "Pauna",
+    "name_details": "Padre, en lengua de los muzos.",
+    "MASL": 1215,
+    "foundation": "1842",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Roque - Julio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Alto de San Jerónimo", "cascada Pozo Azul", "cavernas de quebrada Seca", "cerros de Fura y Tena"],
+    "gastronomy": ["Preparación del chontaduro. Ocupa el 4 puesto a nivel nacional en preparación del chontaduro o cachipay", "tamales", "guarapo y chicha"]
+},
+{
+    "dane_code": 15533,
+    "name": "Paya",
+    "name_details": "",
+    "MASL": 950,
+    "foundation": "1628",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen del Carmen - julio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Sombreros de paja y canstos en bambú."
+    }],
+    "other_attraction": ["Iglesia parroquial (siglo XVIII)", "Iglesia de Morcote (siglo XVII)", "puente de la libertad", "trincherón de Paya", "estrella de ocho puntas construida en el siglo XVII"],
+    "gastronomy": ["Plátano patacón", "yuca asada", "carne oreada y a la llanera"]
+},
+{
+    "dane_code": 15537,
+    "name": "Paz del Río",
+    "name_details": "En memoria del tratado de paz del Río, firmado entre Colombia y Perú, en Río de Janeiro el 24 de mayo de 1934.",
+    "MASL": 2200,
+    "foundation": "1936",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen de las Minas- agosto.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Minas de Acerías Paz del Río"],
+    "gastronomy": ["Mute de mazorca con pata"]
+},
+{
+    "dane_code": 15542,
+    "name": "Pesca",
+    "name_details": "Dominio de la fortaleza.",
+    "MASL": 2678,
+    "foundation": "1601",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Virgen del Carmen - Julio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Catedral", "parque principal", "páramo de la Cortadera", "Municipio con construcciones coloniales", "minas de fosfatos"],
+    "gastronomy": ["Mute de maíz pelao con pata", "cuchuco de trigo", "mazamorra de maíz", "ayacos en amero de mazorca", "cordero sudado y asado"]
+},
+{
+    "dane_code": 1550,
+    "name": "Pisba",
+    "name_details": "Patrón o gran señor. Cacique de la tribu de los paipas.",
+    "MASL": 1499,
+    "foundation": "1912",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales romeria a la Virgen de Pisba - octubre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Objetos en caña de Bijao"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Páramo de Pisba", "casa donde se hospedo Simón Bolivar", "laguna de las piedras", "Rocaría", "las trincheras del soldado y alto del monte"],
+    "gastronomy": ["Cocido boyacense"]
+},
+{
+    "dane_code": 15572,
+    "name": "Puerto Boyacá",
+    "name_details": "Del puerto de Boyacá al río Magdalena",
+    "MASL": 1550,
+    "foundation": "diciembre 14 de 1957",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales marzo 14-17",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Laguna de Palagua", "isla de la Fantasía", "parque principal", "la colina o mirador", "las selvas del territorio Vásques"],
+    "gastronomy": ["Pescado bagre con yuca asada, plátano patacón y arroz"]
+},
+{
+    "dane_code": 15580,
+    "name": "Quípama",
+    "name_details": "Hijo de Fura y Tena  de los muzos.",
+    "MASL": 1300,
+    "foundation": "1983",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Nuestra Señora de Paz - marzo.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Parque principal", "iglesia parroquial moderna", "minas de esmeraldas"],
+    "gastronomy": ["Carne asada con yuca y plátano"]
+},
+{
+    "dane_code": 15599,
+    "name": "Ramiriquí",
+    "name_details": "Tierra blanca.",
+    "MASL": 2325,
+    "foundation": "1954",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor al Señor de los Abastos - enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Fiestas de San Pedro - junio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Tipica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Objetos en Gaita y tejidos en lana de oveja."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Capilla de los tunos", "las piedras pintadas", "el monolito fálico", "casa donde nació el presidente José Ignacio de Márquez", "Alto de la Cruz", "Piedra de Bolivar", "Páramo de Vijagual"],
+    "gastronomy": ["Arepas de Maíz rellanas con queso", "pan de yucas", "almojabanas", "quesos", "mazamorra de maíz"]
+},
+{
+    "dane_code": 15600,
+    "name": "Ráquira",
+    "name_details": "Pueblo de las ollas o pueblo de olleros.",
+    "MASL": 2152,
+    "foundation": "1780",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Antonio de la Pared - Junio y Virgen de la Candelaria - Febrero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Semana Santa con desfile de santos hechos en barro.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Cerámica en barro (ollas , materas, virgenes, alcancias, pitos, chorotes, figuras varias (celebres caballitos de raquira)"
+    },
+    {
+        "name": "Convento del Desierto de La Candelaria",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "1611 (Claustro). 1652 (Iglesia). Siglo XVII, Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 0789 31-VII-1998 (Declara) "
+    },
+    {
+        "name": "MUSEO CONVENTO DEL DESIERTO DE LA CANDELARIA ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": "Comunidad De Los Padres Agustinos Recoletos"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Monasterio de la Candelaria (siglo XVII)", "iglesia parroquial", "puente rústico en madera", "casa de la Alcaldía Municipal", "parque principal", "páramo de Rabanal"],
+    "gastronomy": ["Sancocho con gallina", "chicha"]
+},
+{
+    "dane_code": 15621,
+    "name": "Rondón",
+    "name_details": "En honor al héroe al pantano de Vargas Juan José Rondón.",
+    "MASL": 2100,
+    "foundation": "1936",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Rafael - octubre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Páramo de la chapa", "alto del Tambor", "Peña de la galera", "Peña del Fical", "iglesia parroquial de cotre moderno", "páramo de la leona", "aguas termales", "páramo de Vijagual"],
+    "gastronomy": ["Arepas de maíz", "arepas con queso", "almojabana", "cocido boyacense"]
+},
+{
+    "dane_code": 15632,
+    "name": "Saboyá",
+    "name_details": "Gusto por las mantas o del cacique Saboyá",
+    "MASL": 2652,
+    "foundation": "1556",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Blas. - julio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Estación del Ferrocarril Saboyá",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Estación del Ferrocarril Garavito",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    }],
+    "other_attraction": ["Iglesia parroquial", "parque principal"],
+    "gastronomy": ["Mazamorra de maíz", "carne asada", "cocido boyacense"]
+},
+{
+    "dane_code": 15638,
+    "name": "Sachica",
+    "name_details": "Sumo sacerdote o nuestro presente dominio.",
+    "MASL": 2150,
+    "foundation": "1556",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor al Divino Niño - Octubre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Pación de Cristo en vivo, en Semana Santa, por esto es llamada la Jerusalén de Colombia",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival y reinado de la cebolla - octubre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Capilla doctrinera del Siglo XVII", "Cruz de piedra", "piedra de Castillo"],
+    "gastronomy": ["Gallina campesina con papas y ají", "chicha", "tierra de la cebolla"]
+},
+{
+    "dane_code": 15646,
+    "name": "Samacá",
+    "name_details": "Vuestro presente dominio",
+    "MASL": 2604,
+    "foundation": "1650",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen del Rosario - Diciembre 16- 24",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo de Samacá - diciembre 16-24",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Fiestas de la Virgen del Carmen - julio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de tractomulas - julio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Cobijas y ruanas en algodón."
+    },
+    {
+        "name": "Antigua Ferrería de Samacá",
+        "another_names": "Vestigios de la Antigua Ferrería",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARUITECTURA PARA LA INDUSTRIA",
+        "comments": "1878. Siglo XIX, Republicano, Monumento Nacional, Resolución 794 31-VII-1998 (Declara), Pertenece al Conjunto Patrimonial de Órden Nacional de las Antiguas Ferrerías en Colombia. Siglos XIX-XX"
+    },
+    {
+        "name": "Estación del Ferrocarril Samacá",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional,Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Estación del Ferrocarril Tierranegra",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia parroquial", "alto de la cruz", "museo arqueológico", "ruinas de la primera ferreria de Boyacá", "instalaciones de la Fábrica de tejidos de Boyacá", "minas de carbón"],
+    "gastronomy": ["Mogollas y calados de Samacá", "mute de maíz pelao", "cocido boyacense: rubas, nabos, hibias, papa con guiso de nata de leche, queso derretido y cebolla picada, acompañado de chicha o cerveza"]
+},
+{
+    "dane_code": 15660,
+    "name": "San Edurado",
+    "name_details": "Nombe de Santo Católico",
+    "MASL": 1950,
+    "foundation": "17 de Diciembre de 1965",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Eduardo y a la Virgen del Carmen - Diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cascadas de Pailas del Diablo", "Laguna Negra", "Laguna del Cerro", "Toboganes de la Batatalera"],
+    "gastronomy": ["Sancocho de Gallina", "Yuca", "Platano Patacón", "Chicha"]
+},
+{
+    "dane_code": 15664,
+    "name": "San José de Pare",
+    "name_details": "San José, Santo Católico y Nombre Indígena",
+    "MASL": 1545,
+    "foundation": "1780",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San José en enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival del Poncho y el Whisky, Festival del Retorno - Octubre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de San José de Pare",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Mochilas de Fique y Otros Productos"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cueva del Nitro", "Laguna Verde"],
+    "gastronomy": ["Sancocho con Pollo", "Mute con Pata", "Panelitas duras de sabores", "el Piquete ricaurteño", "moliendas", "guarapo y chicha"]
+},
+{
+    "dane_code": 15667,
+    "name": "San Luis de Gaceno",
+    "name_details": "San Luis, Santo Católico",
+    "MASL": 400,
+    "foundation": "1966",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Luis Beltrán en Diciembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival del Queso comidas típicas y artesanías en Septiembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Parque Principal", "Tuneles para llegar a este municipio"],
+    "gastronomy": ["Quesos", "preparación del pescado: carpa y mojarra"]
+},
+{
+    "dane_code": 15673,
+    "name": "San Mateo",
+    "name_details": "En Honor al campo de San Mateo, donde se sacrificó al prócer capitán Antonio Ricaurte.",
+    "MASL": 2200,
+    "foundation": "Marzo de 1914",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales del 29 de Diciembre al 3 de Enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Típica de San Mateo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruanas, Cobijas, Frazadas en lana de oveja."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Parque Principal", "busto al ilustre pedagogo Ramón María Velandia"],
+    "gastronomy": ["Pipitoria de chivo", "mute de mazorca"]
+},
+{
+    "dane_code": 15676,
+    "name": "San Miguel de Sema",
+    "name_details": "San Miguel, Santo Católico",
+    "MASL": 2215,
+    "foundation": "1960",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Miguel en Diciembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Laguna de Fúquene", "Hacienda las Cascadas"],
+    "gastronomy": ["Mazamorra de maíz", "mute de mazorca"]
+},
+{
+    "dane_code": 15681,
+    "name": "San Pablo de Borbur",
+    "name_details": "San Pablo, Santo Católico",
+    "MASL": 1000,
+    "foundation": "9 de Diciembre de 1959",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Pablo en Diciembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Altos de la Chapa y el Calcetero", "Cascadas del Río Minero"],
+    "gastronomy": ["Carne", "Yuca y Plátano asado", "guarapo"]
+},
+{
+    "dane_code": 15693,
+    "name": "Santa Rosa de Viterbo",
+    "name_details": "Santa Rosa, santa Católica",
+    "MASL": 2750,
+    "foundation": "25 de Octubre de 1810",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Nuestra Señora de la Salud en Agosto.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Reinado del Campo Boyacense en Agosto",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Santa Rosa de Viterbo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "El rostro de chivo, pipitoria de chivo, fabricacion de quesos, tamales y mute de mazorca."
+    },
+    {
+        "name": "MUSEO COMUNITARIO CARLOS ARTURO TORRES PEÑA",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": "Casa De La Cultura (Ong) - Carlos Arturo Torres"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Casa donde nació el Presidente Rafael Reyes", "edificio construido por los Jesuítas, hoy funciona la Escuela de Policía Rafael Reyes", "zoológico en la Escuela de Policía", "templo parrioquial estilo barroco y romano en tres naves"],
+    "gastronomy": []
+},
+{
+    "dane_code": 15696,
+    "name": "Santa Sofía",
+    "name_details": "En Honor a la esposa del Presidente Rafael Reyes, antes llamado Guatoque",
+    "MASL": 2387,
+    "foundation": "1906",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Santa Rosa de Lima en Agosto.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cascada del Hoyal", "Cueva de la Fábrica", "el paso del ángel", "hoyo de la romera", "la piedra movida", "la cueva de la chapa"],
+    "gastronomy": ["Carne asada con yuca, plátano y guarapo"]
+},
+{
+    "dane_code": 15690,
+    "name": "Santa María",
+    "name_details": "en Honor a la Virgen María",
+    "MASL": 1600,
+    "foundation": "1961",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen del Carmen - Noviembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Santa María",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Artesanías en Bambú, Sombreros, esteras y chinchorros."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cascada la Carbonera y Puente Muros", "represa de Chivor", "túneles"],
+    "gastronomy": ["Ternera a la Llanera con plátano y yuca"]
+},
+{
+    "dane_code": 15686,
+    "name": "Santana",
+    "name_details": "En Honor a Santa Ana, Santa Católica.",
+    "MASL": 1820,
+    "foundation": "3 de Noviembre de 1780",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Santa Ana en Julio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival Nacional del Requinto - Junio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la Panela.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival Regional de Danzas Populares.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Santana",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Objetos de Fique."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Los Trapiches para la fabricación de panela", "plaza de toros La Magdalena"],
+    "gastronomy": ["El Piquete Ricaurteño:  yuca, platano verde, papa, chorizos, carne, costilla, todo asado y se agrega gallina, huevos ocidos acompañados de ají, cerveza o chicha, mute de mazorca o maíz pelao. Servido en hojas de Plátano"]
+},
+{
+    "dane_code": 15720,
+    "name": "Sativanorte",
+    "name_details": "Capitan del sol del Norte.",
+    "MASL": 2619,
+    "foundation": "1636",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San José en Agosto.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Alto de la Cruz", "Iglesia Parroquial siglo XIX con dos torres", "parque principal y avenida Senén Arenas"],
+    "gastronomy": ["El Chivo Sativeño", "la Sopa de ruyas"]
+},
+{
+    "dane_code": 15723,
+    "name": "Sativasur",
+    "name_details": "Capitan del sol del Sur.",
+    "MASL": 2600,
+    "foundation": "1779",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Cristo de los Milagros en Enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial", "Parque Principal", "Sativaviejo"],
+    "gastronomy": ["El Chivo Sativeño", "mute", "Chicha de los Siete Granos"]
+},
+{
+    "dane_code": 15740,
+    "name": "Siachoque",
+    "name_details": "Tierra de Vigoroso Sabor.",
+    "MASL": 2760,
+    "foundation": "1795",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen del Rosario - Octubre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival de los Cuadrilleros de Siachoque - Octubre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Típica de Siachoque",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanias",
+        "comments": "Tejidos en lana y fique, sombreros de paja."
+    },
+    {
+        "name": "Capilla Doctrinera Siachoque",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVII (2a mitad), Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 1686 1-XII-2004 (Declara)"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Templo Parroquial siglo XVIII, reconstruido, posee un cuadro que representa el infierno con escenas terroríficas", "Parque principal", "páramo de Siachoque"],
+    "gastronomy": ["Cocido Boyacense"]
+},
+{
+    "dane_code": 15753,
+    "name": "Soatá",
+    "name_details": "Labranza del Sol",
+    "MASL": 1950,
+    "foundation": "1545",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Inmaculada Concepción - Diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo Soatense",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO DE ARTES, COSTUMBRES Y TRADICIONES DEL NORTE DE BOYACÁ ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "SALA MUSEO ETNOHISTÓRICO DE LA CASA DE LA CULTURA DE SOATÁ ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Parque Juan José Rondón", "hotel Turístico", "alto de la virgen", "puente Pinzón", "cascada de la Chorrera", "capilla de la Virgen de la Piedra", "Casona donde posó Simón Bolívar", "Catedral de la Inmaculada Concepción"],
+    "gastronomy": ["Dátiles azucarados", "brevas con arequipes", "limones al almíbar", "mute con cabro", "sopa de chorota", "chivo", "tamales"]
+},
+{
+    "dane_code": 15755,
+    "name": "Socotá",
+    "name_details": "Apoyo a la Labranza.",
+    "MASL": 2400,
+    "foundation": "1822",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor al Sagrado Corazón de Jesús en Diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Laguna de los Patos", "Laguna de las estrellas", "peñas de Cueva de Negra y la Chorrera", "Lugar donde nació Don Basilio Vicente Oviedo el Primer Historiador Colonial Nacido en Boyacá, autor e la obra Cualidades y Riquezas del Nuevo Reino de Granada"],
+    "gastronomy": ["Cocido Boyacense", "Chivo"]
+},
+{
+    "dane_code": 15757,
+    "name": "Socha",
+    "name_details": "Tierra del Sol y La Luna",
+    "MASL": 2500,
+    "foundation": "1870",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen de la Candelaria en Diciembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Fiestas Matachines y comparsas de cada una de las veredas - Diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Iglesia de Socha Viejo",
+        "another_names": "Antigua Iglesia de Socha Viejo",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVII, Colonial, Monumento Nacional, Decreto 268 12-II-1980 (Declara) "
+    },
+    {
+        "name": "MUSEO DE LOS ANDES ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Templo Doctrinero de Sochaviejo", "La Montaña del Cóndor", "aljibe el Estanquito", "Museo de Antiguedades Antonio María Benítez", "la Loma de Buitrago", "el Pueblo del Diablo", "Palacio Municipal", "alto de la Virgen", "estatuas ecuestres del Libertador Simón Bolívar, del maestro Luis Alberto Acuña en Sochaviejo"],
+    "gastronomy": ["Mojarra", "Mazamorra de maiz y mute con pata", "amasijos", "besitos", "quesos"]
+},
+{
+    "dane_code": 15759,
+    "name": "Sogamoso",
+    "name_details": "Morada del Sol",
+    "MASL": 2569,
+    "foundation": "1778",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Martín de Tours - Julio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Fiesta Patronal a la Virgen de la O, en Morcá - Todos los primeros Sábados de cada mes",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Feria y Reinado del Sol y del Acero - Julio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Fiestas Tradicinales taurinas, exposición de caballos, Coleo, Música Llanera y Corrida de toros",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Sogamoso",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruanas, Cobijas, Frazadas en lana de oveja"
+    },
+    {
+        "name": "Teatro Sogamoso ",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": ""
+    },
+    {
+        "name": "Capilla Doctrinera Sora",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA INSTITUCIONAL",
+        "comments": "1920-1939. Siglo XX, Transición, Monumento Nacional, Decreto 2011 5-XI-1996 (Declara) "
+    },
+    {
+        "name": "MUSEO DE GEOLOGÍA MUGAI ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "OBSERVATORIO ASTRONÓMICO SOGAMOSO",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO ARQUEOLÓGICO DE SOGAMOSO ELIECER SILVA CELIS UPTC",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Museo Arqueologico", "Templo del Sol", "Fuente de Cochucua", "Capilla del Cristo", "Parque de la Pilita", "Morcá", "Capilla de Santa Bárbara", "Cementerio", "Parque el Laguito con Monumento a los Mártires de la Ramada", "Ciudadela Industrial", "teatro Sogamoso", "Páramo de Ciscunsí", "Cerro de Chacón", "Pozo encantado", "Plaza de Toros La Pradera"],
+    "gastronomy": ["Envueltos de maiz", "ternera a la llanera", "Cuchuco de trigo con espinazo de marrano"]
+},
+{
+    "dane_code": 15761,
+    "name": "Somondoco",
+    "name_details": "Proviene del Cacique Sumindoco, Señor de las minas de esmeraldas.",
+    "MASL": 1704,
+    "foundation": "1756",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Santo Cristo del Cerro - Septiembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Típica de Somondoco",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Esmeraldas famosas, Sombreros de ramo, costales de fique, mantas de algodón."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Pesebre navideño", "Iglesia Parroquial Siglo XIX", "puente sobre el río Súnuba", "Parque principal con pila central"],
+    "gastronomy": ["Carne asada con yuca y Plátano", "chicha"]
+},
+{
+    "dane_code": 15762,
+    "name": "Sora",
+    "name_details": "Adorador del Diablo",
+    "MASL": 2650,
+    "foundation": "1976",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Santa Barbara en Diciembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Capilla Doctrinera Sora",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVII, Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 1686 1-XII-2004 (Declara)"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Capilla Doctrinera del Siglo XVII de pidra", "acueducto municipal"],
+    "gastronomy": ["Cocido Boyacense", "Chicha de los siete granos", "Guarapo"]
+},
+{
+    "dane_code": 15764,
+    "name": "Soracá",
+    "name_details": "Mansión Regia del Soberano",
+    "MASL": 2949,
+    "foundation": "1780",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San José en Marzo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial colonial Siglo XVII", "Parque Principal"],
+    "gastronomy": ["Cocido Boyacense", "Chicha"]
+},
+{
+    "dane_code": 15763,
+    "name": "Sotaquirá",
+    "name_details": "Poblado del Soberano",
+    "MASL": 2680,
+    "foundation": "1833",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Nuestra Señora del Transito en Agosto.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Típica de Sotaquirá",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Alpargatas de Fiqué"
+    },
+    {
+        "name": "Estación del Ferrocarril Sotaquirá",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["El mirador de Avendaños", "el cerro de Xiome", "Crianza de trucha en Villa Viviana", "templo parroquial siglo XVIII", "parque principal con pila central", "fincas ganaderas", "hacienda de Soconsuca"],
+    "gastronomy": ["Los Indios de Sotaquirá: Cocido de arveja, habas, masa de maíz; chivo o carne de res, entre hojas de Guasca", "centro frutero", "quesos"]
+},
+{
+    "dane_code": 15774,
+    "name": "Susacón",
+    "name_details": "En honor del Cacique Susacón",
+    "MASL": 2480,
+    "foundation": "1809",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a La Virgen del Carmen - Agosto",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Páramo de Guantiva", "Iglesia Parroquial Moderna", "Parque principal"],
+    "gastronomy": ["Chivo", "pipitoria", "Mute de mazorca"]
+},
+{
+    "dane_code": 15776,
+    "name": "Sutamarchán",
+    "name_details": "El Caserío del Soberano",
+    "MASL": 2095,
+    "foundation": "1558",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Santo Ecce Homo y la Virgen de la salud - Octubre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Sutamarchán",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanias",
+        "comments": "Confección de ruanas, cobijas, mantas, colchas en lana de oveja"
+    },
+    {
+        "name": "Convento del Santo Ecce Homo",
+        "another_names": "Monasterio del Santo Ecce Homo",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "1620-1779. Siglos XVII-XVIII, Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 0789 31-VII-1998 (Declara)"
+    },
+    {
+        "name": "MONUMENTO NACIONAL MONASTERIO DEL SANTO ECCEHOMO ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Aposentos de Santana, Sitio donde se veneró a la Virgen de Chiquinquirá", "Templo Colonial Siglo XVII, donde se encuentra el cuadro de Santo Ecce Homo, originario de Italia", "Convento de Santo Ecce Homo fundado en 1620 por el encomendero don Juan de Mayorga", "Ruinas del Pueblo de Yuca", "Cueva el jurado del diablo con fuerte olor a azufre", "el salto del Ermitaño en la quebrada de Rivera", "el pozo del Carrizal con aguas termales"],
+    "gastronomy": ["Longaniza", "maíz frito con Chicharrón", "Empanada"]
+},
+{
+    "dane_code": 15778,
+    "name": "Sutatenza",
+    "name_details": "Nube detrás del Boquerón",
+    "MASL": 1930,
+    "foundation": "1754",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Isidro en Noviembre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Sutatenza",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Cestería en caña de castilla, sombreros de ramo, alfombras de fique."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial siglo XVII", "Monumento a San Isidro y al agricultor boyacense, del maestro Luis Alberto Acuña, 1917", "Casa donde nacieron las escuelas radiofónicas", "instalaciones de Acción Cultural Popular", "club social", "Pinturas Notables de Gregorio Vásquez de Arce y Ceballos"],
+    "gastronomy": ["Arepas de maíz", "tamales de harina de maíz", "envueltos"]
+},
+{
+    "dane_code": 15790,
+    "name": "Tasco",
+    "name_details": "Cercado regio del soberano",
+    "MASL": 2530,
+    "foundation": "1777",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen del Rosario - Octubre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesania Tipica de Tasco",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Ruanas y Cobijas en Lana de Oveja y Objetos de esparto."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Casa donde se hospedó Simón Bolívar", "casa de Aposentos donde funcionó el primer hospital del ejercito Libertador", "Alto de la Cruz", "pico de Caracol", "Laguna del Oro", "Laguna Colorada", "el Molino Nacional"],
+    "gastronomy": ["Mute", "Mazamorra", "Fritanga", "Chicha de maíz"]
+},
+{
+    "dane_code": 15798,
+    "name": "Tenza",
+    "name_details": "Detrás del Boquerón, los indígenas lo llamaron Tenasuca que significa Bajar.",
+    "MASL": 1543,
+    "foundation": "1537",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Miguel Arcángel -Septiembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Fiestas de reyes o Fiestas reales - Enero",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Ferias y Fiestas de Mitaca y Corpus Christi - Junio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Tenza",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Cestería en caña comun, o chin, miniaturas en crin de caballo o cerdo, jaulas para aves en cañabrava, tejidos en fique, como individuales, bolsos y tapetes."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial", "Parque Principal con obelisco en honor a las Mujeres Heroínas de Tenza y Museo de arte religioso"],
+    "gastronomy": ["Gallina con arepa de maíz, ají y guarapo"]
+},
+{
+    "dane_code": 15804,
+    "name": "Tibaná",
+    "name_details": "Del Capitán o Capitanía",
+    "MASL": 2115,
+    "foundation": "1777",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a La Inmaculada Concepción - Diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Palacio de Gobierno Municipal", "Hacienda Baza", "Hacienda el Molino", "la cascada de Chinguatá (60 mts de altura)"],
+    "gastronomy": ["Cocido Boyacense"]
+},
+{
+    "dane_code": 15806,
+    "name": "Tibasosa",
+    "name_details": "Capitán del dominio",
+    "MASL": 2538,
+    "foundation": "1778",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen de Tibasosa y al Divino Niño - enero",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la Feijoa - Junio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival del Bambuco y el Joropo - Septiembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Fiestas en Honor a la Virgen del Carmen - Septiembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Estación del Ferrocarril Tibasosa",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "MUSEO DE ARTE RELIGIOSO JULIO FRANCO ARANGO ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cerro de Bolívar en el Pantano de Vargas", "sepultura de Inocencio Chincá", "iglesia parroquial", "casa donde se hospedó Simón Bolívar", "Hacienda Suescún", "parque principal", "Hacienda Santillana del escritor Eduardo Caballero Calderón", "Hacienda el Carmen y Hacienda de Normandía", "célebre por sus huertos con árboles frutales"],
+    "gastronomy": ["Productos de la Feijoa: Sabajón, dulces, ponqués, helados, jugos"]
+},
+{
+    "dane_code": 15808,
+    "name": "Tinjacá",
+    "name_details": "Cercado del Poderoso Barón.",
+    "MASL": 2175,
+    "foundation": "17 de Diciembre de 1789",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Blas. - julio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Feria Ganadera",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Dia del ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Ferias y Fiestas en",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial", "Laguna de Tinjacá"],
+    "gastronomy": []
+},
+{
+    "dane_code": 15810,
+    "name": "Tipacoque",
+    "name_details": "De la hacienda que fundaron los Agustinos en este lugar.",
+    "MASL": 2045,
+    "foundation": "28 de Noviembre de 1968, por Eduardo Caballero Calderón",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a los Reyes Magos - enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Tipacoque",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Productos hechos en fique."
+    },
+    {
+        "name": "Casa de Hacienda Tipacoque",
+        "another_names": "Casa Colonial de la Hacienda Tipacoque ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA HABITACIONAL",
+        "comments": "Siglo XVII, Colonial, Monumento Nacional, Decreto 390 17-III-1970 (Declara), Edificada sobre las ruinas de un antiguo Convento Colonial"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Casa de la Hacienda de Tipacoque declarada monumento Nacional"],
+    "gastronomy": ["Mute con chivo", "pipitoria", "asado"]
+},
+{
+    "dane_code": 15814,
+    "name": "Toca",
+    "name_details": "Dominio del Río",
+    "MASL": 2810,
+    "foundation": "1768",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Santo Cristo - Octubre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Ermita del Niño Jesús", "represa de la Copa", "Iglesia Parroquial estilo Gótico moderna", "finca La Villana donde se detuvo el Libertador Simón Bolívar antes de llegar a Tunja", "Templo Doctrinero del siglo XVI"],
+    "gastronomy": ["Quesos campesinos", "mute de maíz pelao"]
+},
+{
+    "dane_code": 15816,
+    "name": "Togüí",
+    "name_details": "Río de la esposa o casa del perro.",
+    "MASL": 1650,
+    "foundation": "1821",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Pablo de Togüí - Junio.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial Moderna", "parque principal", "Cascada de la Chorrera"],
+    "gastronomy": ["El Piquete Ricaurteño", "el mute con cabeza de res", "la carne oreada", "guarapo y chicha"]
+},
+{
+    "dane_code": 15820,
+    "name": "Tópaga",
+    "name_details": "Detrás del Padre Río",
+    "MASL": 2900,
+    "foundation": "1595",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Judas Tadeo - Febrero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Tópaga",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Figuras en Carbón ejecutadas por los niños mineros, muñecos hechos en ameros de maíz."
+    },
+    {
+        "name": "Capilla Doctrinera ",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "1640-1645. Siglo XVII, Colonial, Monumento Nacional, Ley 42 18-XI-1965 (Declara), Hoy en día solo existe una Capilla Posa, en el ángulo nor-occidental"
+    },
+    {
+        "name": "Puente Sobre el Río Gámeza",
+        "another_names": "",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interes Cultural-BIC",
+        "subgroup": "OBRAS DE INGENIERÍA",
+        "comments": "Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 0109 09-II-2005 (Declara), Pertenece al Conjunto de Sitios Históricos, Accidentes Geográficos e Inmuebles, que conforman la Ruta de la Campaña Libertadora."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial doctrinera del Siglo XVII", "altar de los espejos", " el arco toral con presencia del Diablo", "capilla Posa", "el peñón de Tópaga", "minas rústicas de carbón"],
+    "gastronomy": ["Mazamorra de maíz", "cuchuco de trigo", "cocido boyacense"]
+},
+{
+    "dane_code": 15822,
+    "name": "Tota",
+    "name_details": "Labranza del Río",
+    "MASL": 2871,
+    "foundation": "1576",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor al Señor de los Milagros - Enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Tota",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Mantas en lana Oveja, canastos en esparto y cedazos."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial doctrinera Siglo XVII", "Lago de Tota"],
+    "gastronomy": ["Cocido Boyacense", "cuchuco de trigo y maíz", "Chicha"]
+},
+{
+    "dane_code": 15832,
+    "name": "Tununguá",
+    "name_details": "Hijo de Fura y Tena",
+    "MASL": 1500,
+    "foundation": "1962",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a La Virgen del Rosario - enero",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Parroquial Moderna", "Parque Principal"],
+    "gastronomy": ["Carne asada con yuca y Plátano"]
+},
+{
+    "dane_code": 15835,
+    "name": "Turmequé",
+    "name_details": "Jefe Vigoroso",
+    "MASL": 2389,
+    "foundation": "20 de Julio de 1537",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Virgen del Rosario - Octubre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Copa de Cacique Turmequé -Diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Día del Campesino - Junio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Sector Urbano del Municipio de Turmequé",
+        "another_names": "Sector del Área Urbana del Municipio, donde se encuentran Pinturas Murales con escenas del Antiguo y Nuevo Testamento",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "SECTORES URBANOS",
+        "comments": "1776. Siglo XVIII, Colonial, Monumento Nacional, Decreto 1940 29-VIII-1989 (Declara), Sector Urbano Delimitado"
+    },
+    {
+        "name": "SALA MUSEO PARROQUIAL DE ARTE RELIGIOSO ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Iglesia Principal con pinturas de Baltazar de Figueroa y Gregorio Vásquez de Arce y Ceballos, Siglo XVII", "capilla de la Virgen del Carmen", "Coliseo del Juego del Turmequé o Tejo", "cerro de Pozo Negro", "Laguna del Valle", "Hacienda la Calera"],
+    "gastronomy": ["Envueltos de maíz", "mazamorra chiquita", "cocido boyacense"]
+},
+{
+    "dane_code": 15837,
+    "name": "Tuta",
+    "name_details": "Labranza Prestada",
+    "MASL": 2547,
+    "foundation": "1725",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Santa Rita de Casia - enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Capilla Doctrinera",
+        "another_names": "Capilla Iglesia Doctrinera ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Siglo XVII, Colonial, Bien de Interés Cultural de Carácter Nacional, Resolución 1686 1-XII-2004 (Declara)"
+    },
+    {
+        "name": "Estación del Ferrocarril Tuta",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Represa de la Playa", "Iglesia Parroquial", "Parque principal", "plaza de mercado"],
+    "gastronomy": ["Queso Campesino", "asaduras de chivo", "rostro de chivo", "mute con pata", "ajiaco tutense", "carne asada"]
+},
+{
+    "dane_code": 15839,
+    "name": "Tutazá",
+    "name_details": "Hijo del Sol",
+    "MASL": 2700,
+    "foundation": "1852",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen de los Tiestecitos o de la Libertad - Octubre.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Tutazá",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Cerámicas en barro cocido, también llamadas loza de suelo"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Capilla Doctrinera en Piedra", "estatua de Simón Bolívar y la Virgen del Rosario de Tutazá", "alto de la cruz"],
+    "gastronomy": ["Cocido Boyacense"]
+},
+{
+    "dane_code": 15842,
+    "name": "Úmbita",
+    "name_details": "Tu Cumbre o tu Punta",
+    "MASL": 2500,
+    "foundation": "7 de Junio de 1780",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a los Reyes Magos - enero.",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Tipíca de Úmbita",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Céramica Vidriada"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Cuchilla del Tablón", "Castillejos y los Pericos", "Iglesia parroquial", "parque principal"],
+    "gastronomy": ["Mazamorra de Maíz", "cocido boyacense"]
+},
+{
+    "dane_code": 15861,
+    "name": "Ventaquemada",
+    "name_details": "De una venta que se quemó y en adelante la llamaron Ventaquemada.",
+    "MASL": 2630,
+    "foundation": "1778",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a San Antonio de Padua - Febrero",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival de Danzas en Septiembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Aguinaldo Ventaquemadense - Diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Reinado de la Papa - Febrero",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Casa de Teja o de Postas",
+        "another_names": "Casa Histórica ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA HABITACIONAL",
+        "comments": "Siglo XVIII, Colonial, Monumento Nacional, Resolución 1066 2-VIII-2006 (Declara), Pertenece al Conjunto del Parque Histórico, la Piedra de Barreiro, las Ruinas del Antiguo Molino Hidráulico y el área de mayor enfrentamiento entre los ejércitos, justo al norte de la carretera que conduce a Samacá, que se encuentran asociados a la Batalla de Boyacá.                                      Pertenece al conjunto de Sitios Históricos, Accidentes Geográficos e Inmuebles, que conforman la Ruta de la Campaña Libertadora"
+    },
+    {
+        "name": "Casa Histórica de Ventaquemada",
+        "another_names": "Casa donde se redactó y firmó el parte de la batalla de Boyacá ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA HABITACIONAL",
+        "comments": "Siglo XVIII, Colonial, Monumento Nacional, Ley 51 26-XII-1967 (Declara), Pertenece al conjunto de Sitios Históricos, Accidentes Geográficos e Inmuebles, que conforman la Ruta de la Campaña Libertadora"
+    },
+    {
+        "name": "Estación del Ferrocarril Albarracín",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Estación del Ferrocarril Páez Viejo",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Estación del Ferrocarril Ventaquemada",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA PARA EL TRANSPORTE",
+        "comments": "Monumento Nacional, Decreto 746 24-IV-1996 (Declara), Pertenece al Conjunto Patrimonial de órden Nacional de las Estaciones de Pasajeros del Ferrocarril en Colombia. Siglo XIX - XX"
+    },
+    {
+        "name": "Puente de Boyacá",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "OBRAS DE INGENIERÍA",
+        "comments": "Colonial, Monumento Nacional, Resolución 1066 2-VIII-2006 (Declara), Pertenece al Conjunto del Parque Histórico, la Piedra de Barreiro, las Ruinas del Antiguo Molino Hidráulico y el área de mayor enfrentamiento entre los ejércitos, justo al norte de la carretera que conduce a Samacá, que se encuentran asociados a la Batalla de Boyacá.                                   Pertenece al Conjunto de Sitios Históricos, Accidentes Geográficos e Inmuebles, que conforman la Ruta de la Campaña Libertadora."
+    },
+    {
+        "name": "Templo de La Libertad",
+        "another_names": "Monumento Histórico Religioso en el Puente de Boyacá (Sin Construir) ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA RELIGIOSA",
+        "comments": "Monumento Nacional, Ley 50 9-X-1986 (Declara)-Resolución 1066 2-VIII-2006 (Declara), Pertenece al Conjunto del Parque Histórico, la Piedra de Barreiro, las Ruinas del Antiguo Molino Hidráulico y el área de mayor enfrentamiento entre los ejércitos, justo al norte de la carretera que conduce a Samacá, que se encuentran asociados a la Batalla de Boyacá. Se ordena su construcción y se declara Monumento Nacional, como conmemoración de los 450 años de la fundación de Tunja, mediante la Ley 50 9-X-1986"
+    },
+    {
+        "name": "Conjunto del Parque Histórico, la Piedra de Barreiro, las Ruinas del Antiguo Molino Hidráulico y el área de mayor enfrentamiento entre los ejércitos, asociados a la Batalla del Puente de Boyacá.  ",
+        "another_names": "Conjunto del Parque Histórico, la Piedra de Barreiro, las Ruinas del Antiguo Molino Hidráulico y el área de mayor enfrentamiento entre los ejércitos, justo al norte de la carretera que conduce a Samacá, que se encuentran asociados a la Batalla del Puente de Boyacá.  ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "PAISAJE CULTURAL",
+        "comments": "Resolución 1066 2-VIII-2006 (Declara), Dentro del perímetro  del Parque Histórico se encuentran incluidos el Puente de Boyacá, la casa de Teja o de Postas y el Templo de la Libertad"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Casa donde se firmó el acta del triunfo de la Batalla de Boyacá", "casa donde se hospedó el Libertador Simón Bolívar", "sitio de ejecución de Vignoni", "Iglesia Parroquial con tres torres", "estatua pedestre de Simón Bolívar donada por Venezuela", "Laguna Verde", "alto de la Virgen"],
+    "gastronomy": ["Cocido Boyacense", "chivo asado", "cuchuco con espinazo", "fritangas"]
+},
+{
+    "dane_code": 15407,
+    "name": "Villa de Leyva",
+    "name_details": "En honor a Andrés Venero de Leyva",
+    "MASL": 2143,
+    "foundation": "12 de Junio de 1572",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Virgen del Carmen - Julio 16",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Conmemoración de la Muerte del Héroe de San Mateo, Antonio Ricaurte - Marzo 25",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Concurso Nacional de estudiantinas - mayo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Desfile de carros clásicos y antiguos - junio",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Cumpleaños fundación de Villa de Leyva - Junio 12",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de cometas - agosto",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Fiestas a San Isidro - Septiembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Festival de Luces - Diciembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Festival de la Cultura andina - Noviembre",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Tradicional ",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Villa de Leyva",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Tejidos en Lana de Oveja."
+    },
+    {
+        "name": "Casa donde murió Antonio Nariño",
+        "another_names": "Casa donde murió el precursor de la Independencia y traductor de los Derechos del Hombre y del Ciudadano Don Antonio Nariño. Museo Antonio Nariño ",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "ARQUITECTURA HABITACIONAL",
+        "comments": "Siglo XVIII, Colonial, Monumento Nacional, Ley 81 26-IX-1961 (Declara)"
+    },
+    {
+        "name": "Sector Antiguo de la ciudad de Villa de Leyva",
+        "another_names": "_",
+        "patrimonial_group": "PATRIMONIO MATERIAL",
+        "group": "Bien de Interés Cultural-BIC",
+        "subgroup": "SECTORES URBANOS",
+        "comments": "1572. Siglo XVI, Colonial, Monumento Nacional, Ley 163 30-XII-1959 (Declara). Decreto 3641 17-XII-1954 (Declara), Sector Urbano Delimitado"
+    },
+    {
+        "name": "CASA MUSEO ANTONIO NARIÑO Y ÁLVAREZ ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "CASA MUSEO ANTONIO RICAURTE ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "CASA MUSEO LUIS ALBERTO ACUÑA ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO EL FÓSIL ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO DEL CARMEN ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "KOSMOS MUSEO DEL ESPACIO ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO PALEONTOLÓGICO ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "PARQUE ARQUEOLÓGICO DE VILLA DE LEYVA: EL INFIERNITO",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "MUSEO PREHISTÓRICO ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Mixto",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Observatorio precolombino el infiernito", "museo paleontológico de la Universidad Nacional", "los molinos de mesopotamia", "casa donde murió Antonio Nariño", "Casa donde nació Antonio Ricaurte", "Casa del Primer Congreso 1812", "real fábrica de aguardiente", "casa museo del maestro Luis Alberto Acuña", "Casa del cabildo", "Ruinas del templo de Moniquirá", "Iglesia Parroquial", "Iglesia del Cármen", "Iglesia convento de San Agustín", "Iglesia Convento de San Fancisco"],
+    "gastronomy": ["Mazamorra Chiquita", "mute de mazorca con pata", "amasijos: rosquillas , ponqués, almojabanas, mogollas, pandeyucas, besos de novia"]
+},
+{
+    "dane_code": 15879,
+    "name": "Viracachá",
+    "name_details": "De la lengua Quechua aire del lago",
+    "MASL": 2520,
+    "foundation": "28 de Noviembre de 1787",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a Santa Lucía - Marzo",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Viracachá",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Alpargatas de fique y ruanas de oveja"
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["La cruz del castigo", "la fuente de Toscana", "el chorro de la vieja", "la piedra respondona", "los baños de Roma", "las columnas de los indios", "las cuevas de los murciélagos"],
+    "gastronomy": ["Cocido Boyacense"]
+},
+{
+    "dane_code": 15897,
+    "name": "Zetaquira",
+    "name_details": "Tierra de la Culebra",
+    "MASL": 1875,
+    "foundation": "6 de Septiembre de 1745",
+    "tourist_attraction": [
+    {
+        "name": "Fiestas Patronales en honor a la Virgen del coro - enero",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Inmaterial",
+        "group": "Festividades y Eventos",
+        "subgroup": "Evento Religioso",
+        "comments": ""
+    },
+    {
+        "name": "Artesanía Típica de Zetaquira",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "Objetos Artesanales",
+        "subgroup": "Artesanías",
+        "comments": "Canastos en bambú y caña brava, mochilas de fique."
+    },
+    {
+        "name": "Biblioteca ",
+        "another_names": "",
+        "patrimonial_group": "Patrimonio Material",
+        "group": "",
+        "subgroup": "",
+        "comments": ""
+    }],
+    "other_attraction": ["Aguas termales (aguas calientes)", "alto del coro", "piscina del ocho", "río mueche"],
+    "gastronomy": ["Arepas de maíz con queso relleno", "ternera a la llanera", "carne oreada", "guarapo", "chicha"]
+}]

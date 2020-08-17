@@ -1,0 +1,11 @@
+=CONCATENATE("""name""",":","""",G2,"""",",","""another_names""",":","""",h2,"""",",","""patrimonial_group""",":","""",I2,"""",",","""group""",":","""",J2,"""",",","""subgroup""",":","""",K2,"""",",","""comments""",":","""",L2,"""")
+
+    "dane_code": 15897,
+    "name": "Zetaquira",
+    "name_details": "Tierra de la Culebra",
+    "MASL": 1875,
+    "foundation": "6 de Septiembre de 1745",
+    "tourist_attraction": [],
+    "other_attraction": [],
+    "gastronomy": [] 
+=CONCATENATE("""dane_code""",":",A1,",","""name""",":","""",B1,"""",",","""name_details""",":","""",C1,"""",",","""MASL""",":",D1,",","""foundation""",":","""",E1,"""",",","""tourist_attraction""",":","[]",",","""other_attraction""",":","[",F1,"]",",","""gastronomy""",":","[]")

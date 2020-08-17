@@ -1,0 +1,65 @@
+---
+title: "PES EDA"
+author: "Omar Alejandro Botia Navas / alejandrobotia352@gmail.com"
+date: "16 de junio de 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r research, include=FALSE, message=FALSE}
+#https://stackoverflow.com/questions/42279838/dealing-with-spaces-in-header-names
+
+#use of diferentes types of grapichs
+#http://clairemcwhite.github.io/Intro-to-ggplot-and-tidy-data/
+
+# dinamic facet  facet_grid(.~facet, scales = "free_x", space = "free_x")
+```
+
+```{r libraries, include=FALSE, message=FALSE}
+library("ggplot2")
+library("dplyr")
+library("gridExtra")
+library("tidyr")
+library("RColorBrewer")
+library("fivethirtyeight")
+library("ggthemes")
+#library(plyr)
+```
+
+```{r load_data, include=FALSE}
+municipios <- read.csv("sitios_de_interes.csv", header=TRUE, sep=";")
+```
+
+```{r head, include=FALSE}
+head(municipios)
+summary(municipios)
+str(municipios)
+```
+
+```{r empty_as_null, include=FALSE}
+municipios$SITIOS.TURISTICOS <- as.character(municipios$SITIOS.TURISTICOS)
+municipios$SITIOS.TURISTICOS[municipios$SITIOS.TURISTICOS==""] <- "NA"
+is.na(municipios$SITIOS.TURISTICOS)
+
+municipios$X <- as.character(municipios$X)
+municipios$X[municipios$X==""] <- "NA"
+is.na(municipios$X)
+```
+
+```{r separete_sitios_turisticos, include=FALSE}
+municipios$SITIOS.TURISTICOS <- as.character(municipios$SITIOS.TURISTICOS)
+municipios$SITIOS.TURISTICOS
+
+municipios %>% separate(municipios, SITIOS.TURISTICOS, 100, sep = ",", remove = FALSE,
+  convert = FALSE, extra = "merge", fill = "right")
+
+rlang::last_error()
+
+```
+
+
+
+
